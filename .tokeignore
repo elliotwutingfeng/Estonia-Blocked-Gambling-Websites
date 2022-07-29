@@ -4,3 +4,4 @@ README.md
 renovate.json
 requirements.txt
 scraper.py
+blocklist_ABP.txt

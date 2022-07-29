@@ -17,7 +17,10 @@ The URLs in this blocklist are compiled by the **Estonian Tax and Customs Board*
 
 ## Blocklist download
 
-You may download the blocklist [here](blocklist.txt?raw=1)
+| File | Download |
+|:-:|:-:|
+| blocklist.txt | [:floppy_disk:](blocklist.txt?raw=true) |
+| blocklist_ABP.txt | [:floppy_disk:](blocklist_ABP.txt?raw=true) |
 
 ## Requirements
 

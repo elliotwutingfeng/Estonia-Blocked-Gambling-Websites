@@ -7,6 +7,7 @@ import re
 from datetime import datetime
 
 import camelot
+import requests
 import tldextract
 
 logger = logging.getLogger()
@@ -44,14 +45,18 @@ def clean_url(url: str) -> str:
 
 def extract_urls() -> set[str]:
     """Extract URLs found in
-    https://ncfailid.emta.ee/index.php/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf
+    https://ncfailid.emta.ee/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf
 
     Returns:
         set[str]: Unique URLs
     """
     try:
-        endpoint: str = "https://ncfailid.emta.ee/index.php/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf"
-        tables = camelot.read_pdf(endpoint, pages='all')
+        endpoint: str = "https://ncfailid.emta.ee/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf"
+        res = requests.get(endpoint, verify=False)
+        # TODO verify=False is unsafe, remove this when emta.ee sorts out their SSL issues
+        with open('source.pdf', 'wb') as f:
+            f.write(res.content)
+        tables = camelot.read_pdf('source.pdf', pages='all')
         urls = set()
         for table in tables:
             urls.update([maybe_url for maybe_url in table.df[1].values
