@@ -15,7 +15,7 @@ jobs:
             - name: setup python
               uses: actions/setup-python@v4
               with:
-                  python-version: "3.9" # install the python version needed
+                  python-version: "3.11"
 
             - name: install python packages and other dependencies
               run: |
@@ -24,12 +24,13 @@ jobs:
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
 
-            - name: execute py script # run scraper.py to get the latest data
+            - name: execute py script
               run: python scraper.py
 
-            - name: create ABP list
+            - name: create adblocking lists
               run: |
-                  sed 's/^/\|\|/;s/$/\$all/' blocklist.txt > blocklist_ABP.txt
+                  sed 's/^/\|\|/;s/$/\^/' blocklist.txt > blocklist_ABP.txt
+                  sed 's/^/\|\|/;s/$/\^$all/' blocklist.txt > blocklist_UBO.txt
 
             - name: commit files
               run: |

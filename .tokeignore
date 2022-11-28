@@ -5,3 +5,4 @@ renovate.json
 requirements.txt
 scraper.py
 blocklist_ABP.txt
+blocklist_UBO.txt
