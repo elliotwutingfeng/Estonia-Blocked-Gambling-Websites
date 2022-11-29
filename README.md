@@ -25,7 +25,7 @@ The URLs in this blocklist are compiled by the **Estonian Tax and Customs Board*
 
 ## Requirements
 
--   Python 3.10
+-   Python 3.9
 
 ## Setup instructions
 
