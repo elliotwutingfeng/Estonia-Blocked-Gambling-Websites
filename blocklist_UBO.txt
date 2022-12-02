@@ -1,6 +1,10 @@
+||10.egocasino3.com^$all
+||106-azino888.win^$all
 ||10bet.co.uk^$all
 ||10bet.com^$all
 ||10futuriti.ru^$all
+||10slottica.com^$all
+||10xlotto.com^$all
 ||118on9.com^$all
 ||123allin.com^$all
 ||123bingoonline.com^$all
@@ -8,6 +12,8 @@
 ||12bet.com^$all
 ||138.com^$all
 ||138sungame.com^$all
+||14icecazino.com^$all
+||14red.com^$all
 ||180bets.com^$all
 ||188bet.com^$all
 ||188games.com^$all
@@ -91,6 +97,7 @@
 ||777dragoncasino.eu^$all
 ||777mister.com^$all
 ||777originals.com^$all
+||777slotsbay.com^$all
 ||77spins.com^$all
 ||7Carte.com^$all
 ||7bitcasino.com^$all
@@ -103,6 +110,7 @@
 ||7sultan.com^$all
 ||7sultans.eu^$all
 ||7sultanscasino.com^$all
+||871bets10.com^$all
 ||888-poker.com^$all
 ||888.com^$all
 ||888bingo.com^$all
@@ -128,6 +136,7 @@
 ||adda52.com^$all
 ||adjarabet.com^$all
 ||adlercasino.com^$all
+||admiral-x.com^$all
 ||admiralbet.com^$all
 ||africanpalacecasino.com^$all
 ||agentsino.com^$all
@@ -165,6 +174,7 @@
 ||artemisbet200.net^$all
 ||aspinalls.com^$all
 ||aspinallspoker.com^$all
+||astekbet.com^$all
 ||asteriapoker.com^$all
 ||atlanticspins.com^$all
 ||atlaslivecasino.com^$all
@@ -206,6 +216,7 @@
 ||bet2u.com^$all
 ||bet3000.com^$all
 ||bet770.com^$all
+||betandyou.com^$all
 ||betanysports.eu^$all
 ||betballer.com^$all
 ||betbellavegas.com^$all
@@ -286,6 +297,7 @@
 ||betvillafortuna.com^$all
 ||betway.com^$all
 ||betwinner.com^$all
+||betwinner1.com^$all
 ||betworld.com^$all
 ||betzest.com^$all
 ||bgo.com^$all
@@ -316,6 +328,7 @@
 ||bitstarz18.com^$all
 ||bitstarz20.com^$all
 ||bitstarz41.com^$all
+||bitstarz59.com^$all
 ||bitzillions.com^$all
 ||bkfonbet.com^$all
 ||bkmaxline.ru^$all
@@ -394,6 +407,7 @@
 ||caribsports.com^$all
 ||carlospoker.com^$all
 ||carnivalcasino.com^$all
+||cashalot.bet^$all
 ||casholotcasino.com^$all
 ||cashpoint.com^$all
 ||cashpotcasino.com^$all
@@ -462,7 +476,9 @@
 ||casinodelrio.com^$all
 ||casinodep.com^$all
 ||casinodipoker.com^$all
+||casinodisco.com^$all
 ||casinoelegance.com^$all
+||casinoempire.com^$all
 ||casinoepoca.com^$all
 ||casinoespresso.com^$all
 ||casinoestrellaofficial.com^$all
@@ -501,6 +517,7 @@
 ||casinomia.com^$all
 ||casinomidas.com^$all
 ||casinomoons.com^$all
+||casinonapoli.com^$all
 ||casinonoir.com^$all
 ||casinoofdreams.uk^$all
 ||casinoonline.com^$all
@@ -518,6 +535,7 @@
 ||casinosieger.com^$all
 ||casinoslava.com^$all
 ||casinosplendido.com^$all
+||casinosuperlines.com^$all
 ||casinoswiss.com^$all
 ||casinotitan.com^$all
 ||casinotitan.im^$all
@@ -541,6 +559,7 @@
 ||cheekyriches.com^$all
 ||cherrycasino.com^$all
 ||cherryredcasino.com^$all
+||chilli777.com^$all
 ||chivalrycasino.com^$all
 ||chocolatepoker.com^$all
 ||cinemacasino.co.uk^$all
@@ -584,6 +603,10 @@
 ||coolhandpoker.com^$all
 ||copacabanapoker.com^$all
 ||coral.co.uk^$all
+||cosmicslot123.com^$all
+||cosmicslot4.com^$all
+||cosmicslot5.com^$all
+||cosmicslot6.com^$all
 ||cosmikcasino.com^$all
 ||cosmocasino.com^$all
 ||cozyno.com^$all
@@ -665,9 +688,13 @@
 ||ee.euromania-it.com^$all
 ||efbet.com^$all
 ||efortuny.es^$all
+||egocasino3.com^$all
+||egocasino4.com^$all
+||egocasino5.com^$all
 ||eightstorm.com^$all
 ||eldoradopalace.com^$all
 ||elitemobilecasino.co.uk^$all
+||emojino.com^$all
 ||empirecasino.com^$all
 ||empirepoker.com^$all
 ||emucasino.com^$all
@@ -718,6 +745,8 @@
 ||expekt.it^$all
 ||expektita.com^$all
 ||expektitaly.com^$all
+||explosino.com^$all
+||explosino3.com^$all
 ||eypobet.com^$all
 ||ezbets.com^$all
 ||fabspins.com^$all
@@ -726,6 +755,7 @@
 ||fairgocasino.com^$all
 ||fairwaybet.net^$all
 ||fairwaycasino.com^$all
+||fantasino.com^$all
 ||fantasticwin.net^$all
 ||fastplay-casino.com^$all
 ||fatbetpoker.com^$all
@@ -742,8 +772,13 @@
 ||flycasino.com^$all
 ||fonbet.com^$all
 ||fonbet.ru^$all
-||fonbet.ru#!^$all
 ||fortunawin.com^$all
+||fortuneclock1.com^$all
+||fortuneclock10.com^$all
+||fortuneclock18.com^$all
+||fortuneclock19.com^$all
+||fortuneclock20.com^$all
+||fortuneclock21.com^$all
 ||fortunefiesta.com^$all
 ||fortunejack.com^$all
 ||fortunejackpots.com^$all
@@ -751,6 +786,7 @@
 ||fortuneroom.eu^$all
 ||fortuneroomcasino.com^$all
 ||foxybingo.com^$all
+||francecasino5.com^$all
 ||frankcasino.com^$all
 ||freespin.com^$all
 ||fruits4real.com^$all
@@ -868,6 +904,7 @@
 ||ibetcasino.com^$all
 ||icecasino.com^$all
 ||igame.com^$all
+||iggbet.com^$all
 ||ignitioncasino.eu^$all
 ||ilucki.com^$all
 ||imperialcasino.com^$all
@@ -883,6 +920,7 @@
 ||islandjackpots.com^$all
 ||ivicasino.com^$all
 ||ivicasino1.com^$all
+||ivicasino11.com^$all
 ||iwildcasino.com^$all
 ||jaakcasino.com^$all
 ||jackpot247.com^$all
@@ -937,6 +975,7 @@
 ||kingneptunescasino.eu^$all
 ||kingsolomons.com^$all
 ||kingsolomons.it^$all
+||kombolotto.com^$all
 ||konungcasino.com^$all
 ||kosmonautcasino.com^$all
 ||krooncasino.com^$all
@@ -1023,6 +1062,7 @@
 ||luckyacepoker4.com^$all
 ||luckyacepokers.com^$all
 ||luckybirdcasino.com^$all
+||luckybirdcasino9.com^$all
 ||luckycasino.com^$all
 ||luckyclic.it^$all
 ||luckycreek.com^$all
@@ -1037,11 +1077,13 @@
 ||luckynugget.com^$all
 ||luckynuggetcasino.com^$all
 ||luckyredcasino.com^$all
+||luckywins.io^$all
 ||luxbet.com^$all
 ||luxurycasino.com^$all
 ||m.parimatch.by^$all
 ||m8poker.com^$all
 ||macaobet-online.com^$all
+||macaucasino4.com^$all
 ||madamechance.com^$all
 ||magicalspins.com^$all
 ||magicboxcasino.com^$all
@@ -1100,6 +1142,7 @@
 ||mintedpoker.eu^$all
 ||mmm.nika.ee^$all
 ||mobile.winner.com^$all
+||mobilebet.com^$all
 ||monacoaces.com^$all
 ||moneystorm.com^$all
 ||mongoosecasino.com^$all
@@ -1110,8 +1153,10 @@
 ||mr-casino.com^$all
 ||mrgreen.com^$all
 ||mrjackvegas.com^$all
+||mrjamescasino.com^$all
 ||mrpoker.com^$all
 ||mrvegascasino.com^$all
+||mrxbet.com^$all
 ||multilotto.com^$all
 ||mummysgold.com^$all
 ||musichallcasino.com^$all
@@ -1189,6 +1234,7 @@
 ||parasino1.com^$all
 ||parimatch.com^$all
 ||parimatch.ru^$all
+||paripesa.com^$all
 ||partybets.com^$all
 ||partybingo.com^$all
 ||partycasino.com^$all
@@ -1247,6 +1293,7 @@
 ||playuk.com^$all
 ||playunited.com^$all
 ||plazaroyal.com^$all
+||pledoo.com^$all
 ||plushbingo.com^$all
 ||plushcasino.com^$all
 ||pocketwin.co.uk^$all
@@ -1367,6 +1414,7 @@
 ||schmittscasino.com^$all
 ||sci-fi-casino.com^$all
 ||scratchmania.com^$all
+||secure.winspark.com^$all
 ||segacasino.com^$all
 ||segapoker.com^$all
 ||sekabet.com^$all
@@ -1441,6 +1489,7 @@
 ||sparkleslots.com^$all
 ||spartanslots.com^$all
 ||spela.com^$all
+||spicyspins.com^$all
 ||spinaru.com^$all
 ||spinaway.com^$all
 ||spincasino.co.uk^$all
@@ -1455,7 +1504,7 @@
 ||spinpug.com^$all
 ||spinrider.com^$all
 ||spintropolis.com^$all
-||spinupcasino.com^$all
+||splitacescasino.com^$all
 ||sport.netbet.co.uk^$all
 ||sportbet.com^$all
 ||sportbook.com^$all
@@ -1492,6 +1541,7 @@
 ||sunvegascasino.com^$all
 ||superbahis438.com^$all
 ||supercasino.com^$all
+||supercatcasino77.com^$all
 ||superiorcasino.com^$all
 ||superlenny.com^$all
 ||superslots.com^$all
@@ -1534,6 +1584,7 @@
 ||topbet.com^$all
 ||topbet.eu^$all
 ||topbet.ug^$all
+||topsport.lt^$all
 ||toptally.com^$all
 ||totalpoker.com^$all
 ||totesport.com^$all
@@ -1544,6 +1595,7 @@
 ||tropicacasino.com^$all
 ||trueflip.io^$all
 ||truepoker.com^$all
+||tsars.com^$all
 ||twistcasino.com^$all
 ||ub.com^$all
 ||ukcasino-club.co.uk^$all
@@ -1553,6 +1605,7 @@
 ||unibet.co.uk^$all
 ||unibet.net^$all
 ||unikrn.com^$all
+||uniquecasino.com^$all
 ||uniquecasinovip.com^$all
 ||upoker.net^$all
 ||uptownaces.eu^$all
@@ -1596,6 +1649,7 @@
 ||vikingbetpoker.com^$all
 ||vikingslots.com^$all
 ||villento.com^$all
+||vip.admiralxxx.net^$all
 ||vipcasino.com^$all
 ||vipslot.club^$all
 ||vipslts.com^$all
@@ -1627,11 +1681,13 @@
 ||whitebet.com^$all
 ||whitelionbets.com^$all
 ||wildjackcasino.com^$all
+||wildpharao.com^$all
 ||wildtokyo.com^$all
 ||wildtornado.com^$all
 ||wildtornado1.com^$all
 ||williamhill.com^$all
 ||williamhillcasino.com^$all
+||win.3.51argocasino.com^$all
 ||win4real.com^$all
 ||winaday.com^$all
 ||winadaycasino.eu^$all
@@ -1693,6 +1749,7 @@
 ||zeusbingo.com^$all
 ||zevcasino.com^$all
 ||zigzag777.com^$all
+||zigzagsport.com^$all
 ||zipangcasino.com^$all
 ||zodiaccasino.com^$all
 ||zulabet1.com^$all
