@@ -1168,6 +1168,7 @@
 ||myliveonlinecasino.com^
 ||mynamepoker.com^
 ||mypokersite.com^
+||natural8.com^
 ||net2netpoker.com^
 ||netgamecasino.com^
 ||neverfelted.eu^
@@ -1721,7 +1722,6 @@
 ||wptcasino.com^
 ||wptpoker.com^
 ||wwin.com^
-||www.natural8.com^
 ||xtip.com^
 ||yabbycasino.com^
 ||yachting-casino.com^
