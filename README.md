@@ -4,7 +4,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
-[![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/actions/workflows/scraper.yml)
+[![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/Estonia-Blocked-Gambling-Websites?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
 
 The Estonian Tax and Customs Board blocks access to the [websites of gambling operators](https://www.emta.ee/ariklient/registreerimine-ettevotlus/hasartmangukorraldajale/blokeeritud-hasartmangu) whose services are available in Estonia but who do not have the required activity and organization license to operate in Estonia.
