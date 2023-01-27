@@ -144,7 +144,6 @@
 ||aladdinsgoldcasino.com^$all
 ||albdigitalpoker.com^$all
 ||alfalivecasino.com^$all
-||alfcasino.com^$all
 ||alfcasino1.com^$all
 ||alicepoker.com^$all
 ||allaustraliancasino.com^$all
@@ -341,7 +340,6 @@
 ||blubet.it^$all
 ||blueleo.com^$all
 ||bluesq.com^$all
-||boaboa.com^$all
 ||boaboa1.com^$all
 ||bobcasino.com^$all
 ||bodog.co.uk^$all
@@ -370,7 +368,6 @@
 ||buckandbutler.com^$all
 ||buffalospins.com^$all
 ||bulldog777.com^$all
-||burancasino.com^$all
 ||burancasino3.net^$all
 ||burropoker.com^$all
 ||butlersbingo.com^$all
@@ -382,7 +379,6 @@
 ||bwin.fr^$all
 ||bwin.it^$all
 ||cabaretclub.com^$all
-||cadoola.com^$all
 ||caesarscasino.co.uk^$all
 ||caesarscasino.com^$all
 ||cakepoker.com^$all
@@ -416,7 +412,6 @@
 ||casimpo.com^$all
 ||casineto.net^$all
 ||casinex.com^$all
-||casinia.com^$all
 ||casinia1.com^$all
 ||casinia2.com^$all
 ||casinia4.com^$all
@@ -535,7 +530,6 @@
 ||casinosieger.com^$all
 ||casinoslava.com^$all
 ||casinosplendido.com^$all
-||casinosuperlines.com^$all
 ||casinoswiss.com^$all
 ||casinotitan.com^$all
 ||casinotitan.im^$all
@@ -603,6 +597,7 @@
 ||coolhandpoker.com^$all
 ||copacabanapoker.com^$all
 ||coral.co.uk^$all
+||cosmicslot.com^$all
 ||cosmicslot123.com^$all
 ||cosmicslot4.com^$all
 ||cosmicslot5.com^$all
@@ -632,6 +627,7 @@
 ||cryptoslots.com^$all
 ||cryptowild.com^$all
 ||crystalspin.com^$all
+||csgoempire.com^$all
 ||cyberclubcasino.com^$all
 ||dabberbingo.com^$all
 ||dafabet.com^$all
@@ -680,6 +676,7 @@
 ||drvegas.com^$all
 ||dublinbet.com^$all
 ||duel5.com^$all
+||duelbits.com^$all
 ||dukescasino.com^$all
 ||dunder.com^$all
 ||dusktilldawnpoker.com^$all
@@ -759,6 +756,7 @@
 ||fantasticwin.net^$all
 ||fastplay-casino.com^$all
 ||fatbetpoker.com^$all
+||fatboss.com^$all
 ||favbet.com^$all
 ||fenikss.net^$all
 ||fire-bet.com^$all
@@ -803,6 +801,7 @@
 ||galacasino.co.uk^$all
 ||galacasino.com^$all
 ||gamblerspalace.com^$all
+||gamdom.com^$all
 ||games.greatbritaincasino.com^$all
 ||games.slotsdevil.com^$all
 ||games770.com^$all
@@ -1181,7 +1180,6 @@
 ||noblepoker.com^$all
 ||nobonuscasino.com^$all
 ||noiq.com^$all
-||nomini.com^$all
 ||nomini2.com^$all
 ||nordicbet.com^$all
 ||norgescasino.com^$all
@@ -1235,7 +1233,6 @@
 ||parasino1.com^$all
 ||parimatch.com^$all
 ||parimatch.ru^$all
-||paripesa.com^$all
 ||partybets.com^$all
 ||partybingo.com^$all
 ||partycasino.com^$all
@@ -1340,7 +1337,6 @@
 ||purple-lounge.com^$all
 ||quasargaming.com^$all
 ||quatrocasino.com^$all
-||rabona.com^$all
 ||rabona1.com^$all
 ||racebets.com^$all
 ||racebook.com^$all
@@ -1614,6 +1610,7 @@
 ||uwin.com^$all
 ||va-bank.com^$all
 ||vasycasino.com^$all
+||vavada.com^$all
 ||vbet.com^$all
 ||vegas7casino.com^$all
 ||vegasbaby.casino^$all
@@ -1671,7 +1668,6 @@
 ||wagerweb.ag^$all
 ||walkerpoker.com^$all
 ||wasspoker.com^$all
-||wazamba.com^$all
 ||wazamba755.com^$all
 ||wazamba777.com^$all
 ||wazamba855.com^$all
@@ -1741,7 +1737,6 @@
 ||zenitbet.com^$all
 ||zenitbet888.com^$all
 ||zerace.com^$all
-||zetcasino.com^$all
 ||zetcasino1.com^$all
 ||zetcasino755.com^$all
 ||zetpoker.eu^$all
