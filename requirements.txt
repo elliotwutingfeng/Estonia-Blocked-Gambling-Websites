@@ -1,6 +1,6 @@
 bandit==1.7.4
 camelot-py[base]==0.10.1
-mypy==1.0.0
+mypy==1.0.1
 mypy-extensions==1.0.0
 pylint==2.16.2
 PyPDF2~=2.12.1
