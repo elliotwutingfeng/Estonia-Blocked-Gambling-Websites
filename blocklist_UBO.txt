@@ -1187,7 +1187,6 @@
 ||moongames.com^$all
 ||morespin.com^$all
 ||mr-casino.com^$all
-||mrbit.com^$all
 ||mrgreen.com^$all
 ||mrjackvegas.com^$all
 ||mrjamescasino.com^$all
