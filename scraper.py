@@ -6,9 +6,9 @@ import logging
 import re
 from datetime import datetime
 
-import camelot
 import requests
 import tldextract
+from pdfminer.high_level import extract_text
 
 logger = logging.getLogger()
 logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -52,16 +52,21 @@ def extract_urls() -> set[str]:
     """
     try:
         endpoint: str = "https://ncfailid.emta.ee/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf"
-        res = requests.get(endpoint, verify=False)
-        # TODO verify=False is unsafe, remove this when emta.ee sorts out their SSL issues
-        with open('source.pdf', 'wb') as f:
+        res = requests.get(endpoint, verify=True, timeout=120)
+        with open("source.pdf", "wb") as f:
             f.write(res.content)
-        tables = camelot.read_pdf('source.pdf', pages='all')
-        urls = set()
-        for table in tables:
-            urls.update([maybe_url for maybe_url in table.df[1].values
-                        if (maybe_url_cleaned := clean_url(maybe_url)) and
-                        len(tldextract.extract(maybe_url_cleaned).registered_domain)])
+        text = extract_text("source.pdf")
+        entries = [
+            e.strip()
+            for e in text.split("\n")
+            if e.strip() and not e.strip().isnumeric()
+        ]
+        urls = set(
+            maybe_url_cleaned
+            for maybe_url in entries
+            if (maybe_url_cleaned := clean_url(maybe_url))
+            and len(tldextract.extract(maybe_url_cleaned).registered_domain)
+        )
         return urls
     except Exception as error:
         logger.error(error)
@@ -70,12 +75,25 @@ def extract_urls() -> set[str]:
 
 if __name__ == "__main__":
     urls: set[str] = extract_urls()
+    registered_domains: set[str] = set(
+        tldextract.extract(url).registered_domain for url in urls
+    )
     if urls:
         timestamp: str = current_datetime_str()
+
         filename = "blocklist.txt"
         with open(filename, "w") as f:
-            # Get rid of zero width spaces
             f.writelines("\n".join(sorted(urls)))
             logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
+
+        filename = "blocklist_UBL.txt"
+        with open(filename, "w") as f:
+            f.writelines("\n".join(sorted(registered_domains)))
+            logger.info(
+                "%d Registered Domains written to %s at %s",
+                len(registered_domains),
+                filename,
+                timestamp,
+            )
     else:
         raise ValueError("URL extraction failed")

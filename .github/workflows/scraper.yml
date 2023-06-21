@@ -15,12 +15,10 @@ jobs:
             - name: setup python
               uses: actions/setup-python@v4
               with:
-                  python-version: "3.9"
+                  python-version: "3.11"
 
-            - name: install python packages and other dependencies
+            - name: install python packages
               run: |
-                  sudo apt-get update
-                  sudo apt-get install ghostscript python3-tk -y
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
 
