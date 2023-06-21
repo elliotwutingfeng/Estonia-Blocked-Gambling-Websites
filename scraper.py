@@ -88,7 +88,7 @@ if __name__ == "__main__":
 
         filename = "blocklist_UBL.txt"
         with open(filename, "w") as f:
-            f.writelines("\n".join(sorted(registered_domains)))
+            f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
             logger.info(
                 "%d Registered Domains written to %s at %s",
                 len(registered_domains),
