@@ -57,14 +57,14 @@ def extract_urls() -> set[str]:
             f.write(res.content)
         text = extract_text("source.pdf")
         entries = [
-            e.strip()
+            f
             for e in text.split("\n")
-            if e.strip() and not e.strip().isnumeric()
+            if not (f := e.strip()).isnumeric()  # type: ignore
         ]
         urls = set(
             maybe_url_cleaned
             for maybe_url in entries
-            if (maybe_url_cleaned := clean_url(maybe_url))
+            if (maybe_url_cleaned := clean_url(maybe_url))  # type: ignore
             and len(tldextract.extract(maybe_url_cleaned).registered_domain)
         )
         return urls
