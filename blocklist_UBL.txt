@@ -1,43 +1,810 @@
+*://*.10  123bingoonline.com/*
+*://*.100  777originals.com/*
+*://*.1000  kingneptunescasino.com/*
+*://*.1001  kingneptunescasino.eu/*
+*://*.1002  kingsolomons.com/*
+*://*.1003  kingsolomons.it/*
+*://*.1004  kombolotto.com/*
+*://*.1005  konungcasino.com/*
+*://*.1006  kosmonautcasino.com/*
+*://*.1007  krooncasino.com/*
+*://*.1008  kroonikabingo.com/*
+*://*.1009  ksbingo.com/*
+*://*.101  777slotsbay.com/*
+*://*.1010  ksonlinecasino.com/*
+*://*.1011  kspoker.com/*
+*://*.1012  kto.com/*
+*://*.1013  kudoscasino.com/*
+*://*.102  77spins.com/*
+*://*.103  7bitcasino.com/*
+*://*.104  7bitcasino9.com/*
+*://*.105  7Carte.com/*
+*://*.106  7kasino.com/*
 *://*.106-azino888.win/*
+*://*.107  7red.com/*
+*://*.108  7redping.win/*
+*://*.109  7reels.com/*
 *://*.10bet.co.uk/*
 *://*.10bet.com/*
 *://*.10futuriti.ru/*
 *://*.10slottica.com/*
 *://*.10xlotto.com/*
+*://*.11  123vegaswin.com/*
+*://*.110  7regal.com/*
+*://*.111  7spins.com/*
+*://*.1112  m8poker.com/*
+*://*.1113  macaobet-online.com/*
+*://*.1114  macaucasino4.com/*
+*://*.1115  madamechance.com/*
+*://*.1116  magicalspins.com/*
+*://*.1117  magicboxcasino.com/*
+*://*.1118  magicred.com/*
+*://*.1119  magikcasino.com/*
+*://*.112  7sultan.com/*
+*://*.1120  magikslots.com/*
+*://*.1121  mailcasino.com/*
+*://*.1122  majorbingo.com/*
+*://*.1123  majorsportsbetting.com/*
+*://*.1124  majortomcasino.com/*
+*://*.1125  malibuclubcasino.com/*
+*://*.1126  malinacasino.com/*
+*://*.1127  malinacasino17.com/*
+*://*.1128  mandarinpalace.com/*
+*://*.1129  manekicasino.com/*
+*://*.113  7sultans.eu/*
+*://*.1130  manhattanslots.com/*
+*://*.1131  mansion88.com/*
+*://*.1132  mansioncasino.com/*
+*://*.1133  mansionpoker.com/*
+*://*.1134  maplecasino.ca/*
+*://*.1135  marathonbet.com/*
+*://*.1136  marathonbet.ru/*
+*://*.1137  mariabingo.com/*
+*://*.1138  mariacasino.com/*
+*://*.1139  mariapoker.com/*
+*://*.114  7sultanscasino.com/*
+*://*.1140  mariaspoker.com/*
+*://*.1141  mars.casino/*
+*://*.1142  marsbet.com/*
+*://*.1143  marsbet1.com/*
+*://*.1144  marsbet6.com/*
+*://*.1145  marsbet7.com/*
+*://*.1146  marsbet9.com/*
+*://*.1147  mazzogaming.com/*
+*://*.1148  matchbook.com/*
+*://*.1149  mavrodi-mmm-2011.com/*
+*://*.115  871bets10.com/*
+*://*.1150  maxbetslots.ru/*
+*://*.1151  maxline.by/*
+*://*.1152  maxlinebk.net/*
+*://*.1153  mayanfortune.com/*
+*://*.1154  mayansports.eu/*
+*://*.1155  mayflowercasino.com/*
+*://*.1156  mbitcasino.com/*
+*://*.1157  meccabingo.com/*
+*://*.1159  megacasino.com/*
+*://*.116  888.com/*
+*://*.1160  megapari.com/*
+*://*.1161  megasportcasino.com/*
+*://*.1162  megavegas.com/*
+*://*.1163  melbet.com/*
+*://*.1164  meridianbet.com/*
+*://*.1165  mermaidpoker.com/*
+*://*.1166  metspoker.com/*
+*://*.1167  mfortune.co.uk/*
+*://*.1168  miamiclubcasino.im/*
+*://*.1169  miamidice.com/*
+*://*.117  888bingo.com/*
+*://*.1170  miamipoker.com/*
+*://*.1171  midaur.com/*
+*://*.1172  mightyslots.com/*
+*://*.1173  millionairecasino.com/*
+*://*.1174  millionaria.com/*
+*://*.1175  mintbet.com/*
+*://*.1176  mintedpoker.com/*
+*://*.1177  mintedpoker.eu/*
+*://*.118  888casino.com/*
+*://*.1180  mobilebet.com/*
+*://*.1181  monacoaces.com/*
+*://*.1182  moneystorm.com/*
+*://*.1183  mongoosecasino.com/*
+*://*.1184  monte-casino.com/*
+*://*.1185  montecryptos.com/*
+*://*.1186  moobilegames.com/*
+*://*.1187  moongames.com/*
+*://*.1188  morespin.com/*
+*://*.1189  mr-casino.com/*
 *://*.118on9.com/*
+*://*.119  888casino.info/*
+*://*.1190  mrgreen.com/*
+*://*.1191  mrjackvegas.com/*
+*://*.1192  mrjamescasino.com/*
+*://*.1193  mrpoker.com/*
+*://*.1194  mrvegascasino.com/*
+*://*.1195  mrxbet.com/*
+*://*.1196  multilotto.com/*
+*://*.1197  mummysgold.com/*
+*://*.1198  musichallcasino.com/*
+*://*.1199  musichallcasino.eu/*
+*://*.12  12bet.com/*
+*://*.120  888games.com/*
+*://*.1200  mybet.com/*
+*://*.1201  mybookie.ag/*
+*://*.1202  mycasinobest.com/*
+*://*.1203  myjackpotcasino.com/*
+*://*.1204  myliveonlinecasino.com/*
+*://*.1205  mynamepoker.com/*
+*://*.1206  mypokersite.com/*
+*://*.1207  n1-bet-casino.com/*
+*://*.1208  natural8.com/*
+*://*.1209  net2netpoker.com/*
+*://*.121  888ladies.com/*
+*://*.1210  netgamecasino.com/*
+*://*.1212  neverfelted.eu/*
+*://*.1213  nextcasino.com/*
+*://*.1214  ngagewin.com/*
+*://*.1215  nikkibet4.net/*
+*://*.1216  nitrogensports.eu/*
+*://*.1217  noblecasino.com/*
+*://*.1218  noblepoker.com/*
+*://*.1219  nobonuscasino.com/*
+*://*.122  888poker.com/*
+*://*.1220  noiq.com/*
+*://*.1221  nomini2.com/*
+*://*.1222  nordicbet.com/*
+*://*.1223  norgescasino.com/*
+*://*.1224  norgesspill.com/*
+*://*.1225  norskespill.com/*
+*://*.1226  nostalgiacasino.com/*
+*://*.1227  noxwin.com/*
+*://*.1228  noxwin1.com/*
+*://*.1229  nutspoker.com/*
+*://*.123  888-poker.com/*
+*://*.1230  nyrabets.com/*
+*://*.1231  oceanbets.com/*
+*://*.1232  ocncasino.com/*
+*://*.1233  oddsmaker.ag/*
+*://*.1234  oddsring.com/*
+*://*.1235  offsidebet.com/*
+*://*.1236  og-casino.com/*
+*://*.1237  ohmyzino.com/*
+*://*.1238  okonlinecasino.com/*
+*://*.1239  okonlinecasino.ee/*
 *://*.123allin.com/*
-*://*.123bingoonline.com/*
-*://*.123vegaswin.com/*
-*://*.12bet.com/*
-*://*.138.com/*
-*://*.138sungame.com/*
-*://*.14icecazino.com/*
-*://*.14red.com/*
-*://*.180bets.com/*
-*://*.188bet.com/*
-*://*.188games.com/*
-*://*.18bet.com/*
-*://*.1960bet.com/*
-*://*.1acasino.com/*
-*://*.1allrightcasino.com/*
-*://*.1bet.com/*
-*://*.1bet2bet.com/*
-*://*.1burancasino.com/*
-*://*.1clubcasino.com/*
-*://*.1livecasino.com/*
-*://*.1luckybirdcasino.com/*
-*://*.1pledoo1.com/*
-*://*.1red.com/*
-*://*.1stlines.com/*
-*://*.1supercatcasino.com/*
-*://*.1vulknvegas421.com/*
-*://*.1x-bet.com/*
-*://*.1xbet.co.ke/*
-*://*.1xbet.com/*
-*://*.1xbet.kz/*
-*://*.1xbet788.com/*
-*://*.1xbetua.com/*
-*://*.1xbit.com/*
+*://*.124  888poker.ee/*
+*://*.1240  olimp.bet/*
+*://*.1241  omnicasino.com/*
+*://*.1242  omnislots.com/*
+*://*.1243  onbling.com/*
+*://*.1244  onbling.me/*
+*://*.1245  onbling-casino.com/*
+*://*.1246  onehash.com/*
+*://*.1247  onlain-kazino.net/*
+*://*.1248  onlinebingo.eu/*
+*://*.1249  onlinecasino.ac/*
+*://*.125  888poker.es/*
+*://*.1250  online-casino.com/*
+*://*.1251  onlinecasino365.com/*
+*://*.1254  online-kasiino.com/*
+*://*.1255  onlinevegas.com/*
+*://*.1256  onlypoker.com/*
+*://*.1257  opoker.com/*
+*://*.1258  oranjecasino.com/*
+*://*.1259  orientxpresscasino.com/*
+*://*.126  888sport.com/*
+*://*.1260  oshi.io/*
+*://*.1261  ozlotteries.com/*
+*://*.1262  outcomebet.com/*
+*://*.1263  ovocasino.com/*
+*://*.1264  oxi.casino/*
+*://*.1265  pacificpoker.com/*
+*://*.1266  paddypower.com/*
+*://*.1267  palaceofchance.com/*
+*://*.1268  palladiumcasino.eu/*
+*://*.1269  pampercasino.com/*
+*://*.127  8bets10.com/*
+*://*.1270  pantasia.com/*
+*://*.1271  paradise8.com/*
+*://*.1272  parasino1.com/*
+*://*.1273  parimatch.com/*
+*://*.1274  parimatch.ru/*
+*://*.1275  partybets.com/*
+*://*.1276  partybingo.com/*
+*://*.1277  partycasino.com/*
+*://*.1278  partypoker.com/*
+*://*.1279  partypoker.es/*
+*://*.128  90bet.gr/*
+*://*.1280  partypoker.it/*
+*://*.1281  partypoker.net/*
+*://*.1282  pcfcasino.com/*
+*://*.1283  pdcpoker.com/*
+*://*.1284  pelaa.com/*
+*://*.1285  pelicancasino.games/*
+*://*.1286  perpetuumpoker.com/*
+*://*.1287  peterpalacecasino.com/*
+*://*.1288  ph.casino/*
+*://*.1289  phoeniciancasino.com/*
+*://*.129  abcislands.com/*
+*://*.1290  phoeniciancasino.eu/*
+*://*.1291  phonevegas.com/*
+*://*.1292  piggscasino.com/*
+*://*.1293  piggspeak.com/*
+*://*.1294  piggybang.com/*
+*://*.1295  pinbet88.com/*
+*://*.1296  pinkcasino.co.uk/*
+*://*.1297  pinkladycasino.com/*
+*://*.1298  pinkladycasinoitalia.com/*
+*://*.1299  pinnacle.com/*
+*://*.13  138.com/*
+*://*.130  absolutepoker.com/*
+*://*.1300  pinnaclesports.com/*
+*://*.1301  pizazzbingo.com/*
+*://*.1302  pittsburghcasino.com/*
+*://*.1303  pkr.com/*
+*://*.1304  planet23.com/*
+*://*.1305  planet7casino.com/*
+*://*.1306  plazaroyal.com/*
+*://*.1307  platinumplay.eu/*
+*://*.1308  platinumplaycasino.com/*
+*://*.131  aced.com/*
+*://*.1310  play2wincasino.com/*
+*://*.1311  play2wincasino.net/*
+*://*.1312  play2wincasinos.com/*
+*://*.1313  playabets.co.za/*
+*://*.1314  playamo.com/*
+*://*.1315  playatharrys.co/*
+*://*.1316  playbet.com/*
+*://*.1317  playdingo.com/*
+*://*.1318  playersonly.ag/*
+*://*.1319  playersonly.com/*
+*://*.132  acelivecasino.com/*
+*://*.1320  playerspalacecasino.eu/*
+*://*.1321  playeurojackpot.com/*
+*://*.1322  playeurolotto.com/*
+*://*.1323  playeuromillions.com/*
+*://*.1324  playfortuna.com/*
+*://*.1325  playfrank.com/*
+*://*.1326  playhippo.com/*
+*://*.1327  playhugelottos.com/*
+*://*.1328  playmillion.com/*
+*://*.1329  playojo.com/*
+*://*.133  aceluckycasino.com/*
+*://*.1330  playolg.ca/*
+*://*.1331  playtoro.com/*
+*://*.1332  playuk.com/*
+*://*.1333  playunited.com/*
+*://*.1334  pledoo.com/*
+*://*.1335  plushbingo.com/*
+*://*.1336  plushcasino.com/*
+*://*.1337  pocketwin.co.uk/*
+*://*.1338  pointpoker.com/*
+*://*.134  acesportsbetting.com/*
+*://*.1343  poker770.co.uk/*
+*://*.1344  poker770.com/*
+*://*.1345  poker848.com/*
+*://*.1346  pokerbiker.com/*
+*://*.1347  pokerdom.com/*
+*://*.1348  pokereon.com/*
+*://*.1349  pokerheaven.com/*
+*://*.135  actionpoker.com/*
+*://*.1350  pokerhills.com/*
+*://*.1351  pokerimaa.com/*
+*://*.1352  pokerloco.com/*
+*://*.1353  pokermambo.com/*
+*://*.1354  pokermax.com/*
+*://*.1355  pokermira.com/*
+*://*.1356  pokerrewards.com/*
+*://*.1357  pokerroom.com/*
+*://*.1358  pokershare.com/*
+*://*.1359  pokertime.eu/*
+*://*.136  adamevecasino.com/*
+*://*.1360  pokerworld.com/*
+*://*.1361  pokiepalace.com/*
+*://*.1362  pokies2go.com/*
+*://*.1363  portomasolive.com/*
+*://*.1364  powerpoker.com/*
+*://*.1365  powerspins.com/*
+*://*.1366  powervegas.com/*
+*://*.1367  premiercasino.es/*
+*://*.1368  prestigecasino.com/*
+*://*.1369  primaplay.eu/*
+*://*.137  adda52.com/*
+*://*.1370  primecasino.com/*
+*://*.1371  primeslots.com/*
+*://*.1372  prismcasino.com/*
+*://*.1373  punt.casino/*
+*://*.1374  pureplay.com/*
+*://*.1375  purepoker.eu/*
+*://*.1376  purevegascasino.com/*
+*://*.1377  purple-lounge.com/*
+*://*.1378  quasargaming.com/*
+*://*.1379  quatrocasino.com/*
+*://*.138  adjarabet.com/*
+*://*.1380  rabona1.com/*
+*://*.1381  racebets.com/*
+*://*.1382  racebook.com/*
+*://*.1383  reactcasino.com/*
+*://*.1384  realbet.eu/*
+*://*.1385  realbetting365.com/*
+*://*.1386  realdealbet.com/*
+*://*.1387  realpoker24.com/*
+*://*.1388  realvegasonline.com/*
+*://*.1389  redbet.com/*
+*://*.139  adlercasino.com/*
+*://*.1390  redflushcasino.com/*
+*://*.1391  redflushcasino.eu/*
+*://*.1392  redhotpoker.com/*
+*://*.1393  redkings.com/*
+*://*.1394  redping.win/*
+*://*.1395  redslots.com/*
+*://*.1396  redslotsvip.com/*
+*://*.1397  redstarpoker.com/*
+*://*.1398  reefclubcasino.com/*
+*://*.1399  reelemperor.com/*
+*://*.14  138sungame.com/*
+*://*.140  admiralbet.com/*
+*://*.1400  regalscasino.com/*
+*://*.1401  reloadbet12.com/*
+*://*.1402  rembrandtcasino.com/*
+*://*.1403  rialtocasino.com/*
+*://*.1404  rialtovipcasino.com/*
+*://*.1405  ricardoscasino.net/*
+*://*.1406  richcasino.com/*
+*://*.1407  richprize.com/*
+*://*.1408  richreels.com/*
+*://*.1409  rickycasino.com/*
+*://*.141  admiral-x.com/*
+*://*.1410  ridika.com/*
+*://*.1411  rippercasino.com/*
+*://*.1412  rizk.com/*
+*://*.1413  rivalo.com/*
+*://*.1414  riverbelle.co.uk/*
+*://*.1415  riverbelle.com/*
+*://*.1416  riverbellecasino.com/*
+*://*.1417  rivernilecasino.net/*
+*://*.1418  rockbet.com/*
+*://*.1419  rockbet.net/*
+*://*.142  africanpalacecasino.com/*
+*://*.1420  rollercasino.com/*
+*://*.1421  romecasino.com/*
+*://*.1422  romevipcasino.com/*
+*://*.1423  roulette69.com/*
+*://*.1424  roxypalace.com/*
+*://*.1425  royaalcasino.com/*
+*://*.1426  royal.bet/*
+*://*.1427  royalacecasino.com/*
+*://*.1428  royalapollo.com/*
+*://*.1429  royalbets.com/*
+*://*.143  agentsino.com/*
+*://*.1430  royalcitycasino.com/*
+*://*.1431  royalloungecasino.com/*
+*://*.1432  royalpanda.com/*
+*://*.1433  royalvegas.co.uk/*
+*://*.1434  royalvegas.eu/*
+*://*.1435  royalvegascasino.com/*
+*://*.1436  royalvegaspoker.com/*
+*://*.1438  rubet.com/*
+*://*.1439  rubyfortune.com/*
+*://*.144  akpokerclub.com/*
+*://*.1440  rubyroyal.com/*
+*://*.1441  rubyslots.com/*
+*://*.1442  rushmoreonline.com/*
+*://*.1443  russiancasino.com/*
+*://*.1445  safaricasino.com/*
+*://*.1446  safaricasino.eu/*
+*://*.1447  saharasandscasino.net/*
+*://*.1448  salutegame.com/*
+*://*.1449  Sandboxcasino.io/*
+*://*.145  aladdinsgoldcasino.com/*
+*://*.1450  sanfrancasino.com/*
+*://*.1451  sbobet.com/*
+*://*.1452  scasino.com/*
+*://*.1453  schmittscasino.com/*
+*://*.1454  sci-fi-casino.com/*
+*://*.1455  scratchmania.com/*
+*://*.1457  segacasino.com/*
+*://*.1458  segapoker.com/*
+*://*.1459  sekabet.com/*
+*://*.146  albdigitalpoker.com/*
+*://*.1460  sekabet106.com/*
+*://*.1461  sergeymavrodi.com/*
+*://*.1462  sergey-mavrodi.com/*
+*://*.1463  sergey-mavrodi.ms/*
+*://*.1464  sergey-mavrodi-mmm.net/*
+*://*.1465  sergey-mavrodi-mmm.org/*
+*://*.1466  shadowbit.io/*
+*://*.1467  silkbingo.com/*
+*://*.1468  silverdollar.com/*
+*://*.1469  silveroakcasino.com/*
+*://*.147  alfalivecasino.com/*
+*://*.1470  silversandscasino.com/*
+*://*.1471  simonsayscasino.com/*
+*://*.1472  sizzlingslots.com/*
+*://*.1473  skybet.com/*
+*://*.1474  skybingo.com/*
+*://*.1475  skykingscasino.com/*
+*://*.1476  skypoker.com/*
+*://*.1477  skytowercasino.com/*
+*://*.1478  skyvegas.com/*
+*://*.1479  slbet.com/*
+*://*.148  alfcasino1.com/*
+*://*.1480  slingo.com/*
+*://*.1481  slotastic.com/*
+*://*.1482  slotjoint.com/*
+*://*.1483  slotland.com/*
+*://*.1484  slotmadness.com/*
+*://*.1485  slotmagix.com/*
+*://*.1486  slotocash.com/*
+*://*.1487  slotocash.im/*
+*://*.1488  slotohit.com/*
+*://*.1489  slotoking.com/*
+*://*.149  alicepoker.com/*
+*://*.1490  slotozen.com/*
+*://*.1491  slototop.com/*
+*://*.1492  slotplanet.com/*
+*://*.1493  slotpowers.com/*
+*://*.1494  slots.lv/*
+*://*.1495  slots500.com/*
+*://*.1496  slotsandgames.com/*
+*://*.1497  slotscapital.lv/*
+*://*.1498  slotsdreamer.co/*
+*://*.1499  slotsexpress.com/*
+*://*.15  14icecazino.com/*
+*://*.150  allaustraliancasino.com/*
+*://*.1500  slotsforce.com/*
+*://*.1501  slotsgalore.com/*
+*://*.1502  slotsjackpotcasino.com/*
+*://*.1503  slotsjungle.com/*
+*://*.1504  slotsjungle.im/*
+*://*.1505  slotsjungle-ads.com/*
+*://*.1506  slotsltd.com/*
+*://*.1507  slotsmagic.com/*
+*://*.1508  slotsmiller.com/*
+*://*.1509  slotsoasis.com/*
+*://*.151  allbritishcasino.com/*
+*://*.1510  slotsoffortune.com/*
+*://*.1511  slotsofvegas.com/*
+*://*.1512  slotspalace1.com/*
+*://*.1513  slotsplus.com/*
+*://*.1514  slotsplus.eu/*
+*://*.1515  slotsuk.co.uk/*
+*://*.1516  slotsvillage.ag/*
+*://*.1517  slotsvillage.com/*
+*://*.1518  slotsville.com/*
+*://*.1519  slotzo.com/*
+*://*.152  allirishcasino.com/*
+*://*.1520  slotter.com/*
+*://*.1521  slottica18.com/*
+*://*.1522  slottyvegas.com/*
+*://*.1523  slotum.com/*
+*://*.1524  slotum1.com/*
+*://*.1525  sloty.com/*
+*://*.1526  smartlivegaming.com/*
+*://*.1527  sol.casino/*
+*://*.1528  space.casino/*
+*://*.1529  sparkleslots.com/*
+*://*.153  alljackpotscasino.com/*
+*://*.1530  spartanslots.com/*
+*://*.1531  spela.com/*
+*://*.1532  spicyspins.com/*
+*://*.1533  spinaru.com/*
+*://*.1534  spinaway.com/*
+*://*.1535  spincasino.co.uk/*
+*://*.1536  spincasino.com/*
+*://*.1537  spinero.com/*
+*://*.1538  spinit.com/*
+*://*.1539  spinmadness.com/*
+*://*.154  allpokercasino.com/*
+*://*.1540  spinmadness17.com/*
+*://*.1541  spinmillion.com/*
+*://*.1542  spinmillion13.com/*
+*://*.1543  spinpalace.com/*
+*://*.1544  spinpalacepoker.com/*
+*://*.1545  spinpug.com/*
+*://*.1546  spinrider.com/*
+*://*.1547  spinsamurai.com/*
+*://*.1548  spinsbro.com/*
+*://*.1549  spintropolis.com/*
+*://*.155  allpro.ag/*
+*://*.1550  splitacescasino.com/*
+*://*.1552  sportbet.com/*
+*://*.1553  sportbook.com/*
+*://*.1554  sportdafa.com/*
+*://*.1555  sportempire.com/*
+*://*.1556  sportfanatik.com/*
+*://*.1557  sportingbet.com/*
+*://*.1558  sportingbet.ru/*
+*://*.1559  sportingindex.com/*
+*://*.156  allslotscasino.ca/*
+*://*.1561  sportsbet.com.au/*
+*://*.1562  sportsbetting.ag/*
+*://*.1563  sportsbook.ag/*
+*://*.1564  sportsbook.ca/*
+*://*.1565  sportsbook.com/*
+*://*.1566  sportsbooks.com/*
+*://*.1567  sportsbookusa.com/*
+*://*.1568  sportsinteraction.com/*
+*://*.1569  stack99.com/*
+*://*.157  allslotscasino.com/*
+*://*.1570  stake.com/*
+*://*.1571  stakes.com/*
+*://*.1572  stanjames.com/*
+*://*.1573  stargames.com/*
+*://*.1574  starvegas.it/*
+*://*.1575  stelario.com/*
+*://*.1576  stickyslots.com/*
+*://*.1577  stingbet.com/*
+*://*.1578  stridepoker.com/*
+*://*.1579  strikeitluckycasino.com/*
+*://*.158  allstarslots.com/*
+*://*.1580  sunmaker.com/*
+*://*.1581  sunpalacecasino.com/*
+*://*.1582  sunpalacecasino.eu/*
+*://*.1583  sunpoker.com/*
+*://*.1584  sunvegascasino.com/*
+*://*.1585  suomikasino.com/*
+*://*.1586  superbahis438.com/*
+*://*.1587  supercasino.com/*
+*://*.1588  supercatcasino77.com/*
+*://*.1589  superiorcasino.com/*
+*://*.159  allstarsportsbook.com/*
+*://*.1590  superlenny.com/*
+*://*.1591  superslots.com/*
+*://*.1592  supremeplay.com/*
+*://*.1593  suprocasino.com/*
+*://*.1594  sveacasino.com/*
+*://*.1595  svenbet.com/*
+*://*.1596  sven-play.com/*
+*://*.1597  switchpoker.com/*
+*://*.1598  switch-poker.com/*
+*://*.1599  syndicate.casino/*
+*://*.16  14red.com/*
+*://*.160  alwaysvegas.eu/*
+*://*.1600  zaycasino.com/*
+*://*.1601  zebet.com/*
+*://*.1602  zenbetting.com/*
+*://*.1603  zencasino.com/*
+*://*.1604  zencasino888.com/*
+*://*.1605  zenitbet.com/*
+*://*.1606  zenitbet888.com/*
+*://*.1607  zerace.com/*
+*://*.1608  zetcasino1.com/*
+*://*.1609  zetcasino755.com/*
+*://*.161  americascardroom.eu/*
+*://*.1610  zetpoker.eu/*
+*://*.1611  zeturf.com/*
+*://*.1612  zeusbingo.com/*
+*://*.1613  zevcasino.com/*
+*://*.1614  zigzag777.com/*
+*://*.1615  zigzagsport.com/*
+*://*.1616  zinkra.com/*
+*://*.1617  zipangcasino.com/*
+*://*.1618  zodiaccasino.com/*
+*://*.1619  zulabet1.com/*
+*://*.162  amsterdamspoker.com/*
+*://*.1620  tab.com.au/*
+*://*.1621  tabtouch.com.au/*
+*://*.1622  tempobet.com/*
+*://*.1623  tennisi.bet/*
+*://*.1624  terminalpoker.com/*
+*://*.1625  thebescasino.com/*
+*://*.1626  thegoldlounge.com/*
+*://*.1627  thegreek.com/*
+*://*.1628  thelotter.com/*
+*://*.1629  theonlinecasino.co.uk/*
+*://*.163  anonibet.com/*
+*://*.1630  thepalaces.com/*
+*://*.1631  thexfactorgames.com/*
+*://*.1632  thisisvegas.com/*
+*://*.1633  thrills.com/*
+*://*.1634  thunderluck.com/*
+*://*.1635  tigergaming.com/*
+*://*.1636  tigergaming.com/*
+*://*.1637  tilacasino.com/*
+*://*.1638  tilapoker.com/*
+*://*.1639  timelesspoker.com/*
+*://*.164  anonymous-casino.com/*
+*://*.1640  timessquarecasino.com/*
+*://*.1641  tipbet.com/*
+*://*.1642  tipico.com/*
+*://*.1643  tipp24.com/*
+*://*.1644  tiptopcasino.com/*
+*://*.1645  titanbet.com/*
+*://*.1646  titancasino.com/*
+*://*.1647  titanpoker.com/*
+*://*.1648  tivolicasino.com/*
+*://*.1649  tobet.com/*
+*://*.165  anybetja.com/*
+*://*.1650  topbet.com/*
+*://*.1651  topbet.eu/*
+*://*.1652  topbet.ug/*
+*://*.1653  topsport.lt/*
+*://*.1654  toptally.com/*
+*://*.1655  totalpoker.com/*
+*://*.1656  totesport.com/*
+*://*.1657  tradacasino.com/*
+*://*.1658  treasuremile.com/*
+*://*.1659  tribelotto.com/*
+*://*.166  aplaycasino.com/*
+*://*.1660  tropeziapalace.com/*
+*://*.1661  tropicacasino.com/*
+*://*.1662  trueflip.io/*
+*://*.1663  truepoker.com/*
+*://*.1664  tsars.com/*
+*://*.1665  twistcasino.com/*
+*://*.1666  ub.com/*
+*://*.1667  ukcasino-club.co.uk/*
+*://*.1668  ukcasinoclub.com/*
+*://*.1669  ukcasinoclub.eu/*
+*://*.167  apollobet.com/*
+*://*.1670  ultimatebet.com/*
+*://*.1671  unibet.co.uk/*
+*://*.1672  unibet.net/*
+*://*.1673  unikrn.com/*
+*://*.1674  uniquecasino.com/*
+*://*.1675  uniquecasinovip.com/*
+*://*.1676  upoker.net/*
+*://*.1677  uptownaces.eu/*
+*://*.1678  usstarcasino.com/*
+*://*.1679  uwin.com/*
+*://*.168  apuestas.com/*
+*://*.1680  va-bank.com/*
+*://*.1681  wager.dm/*
+*://*.1682  wagerup.eu/*
+*://*.1683  wagerweb.ag/*
+*://*.1684  walkerpoker.com/*
+*://*.1685  wasspoker.com/*
+*://*.1686  vasycasino.com/*
+*://*.1687  wazamba755.com/*
+*://*.1688  wazamba777.com/*
+*://*.1689  wazamba855.com/*
+*://*.169  arbat-casino.com/*
+*://*.1690  vavada.com/*
+*://*.1691  vavadaen7.com/*
+*://*.1692  vbet.com/*
+*://*.1693  webbyslot.com/*
+*://*.1694  webbyslot.io/*
+*://*.1695  vegas7casino.com/*
+*://*.1696  vegasbaby.casino/*
+*://*.1697  vegasberry.com/*
+*://*.1698  vegascasino.com/*
+*://*.1699  vegascasino.io/*
+*://*.17  180bets.com/*
+*://*.170  arcadespins.com/*
+*://*.1700  vegascasinoonline.com/*
+*://*.1701  vegascasinoonline.eu/*
+*://*.1702  vegascountrycasino.com/*
+*://*.1703  vegasdays.com/*
+*://*.1704  vegashero.com/*
+*://*.1705  vegasjokercasino.com/*
+*://*.1706  vegaspalms.com/*
+*://*.1707  vegaspalms.eu/*
+*://*.1708  vegaspalmscasino.com/*
+*://*.1709  vegasparadise.com/*
+*://*.1710  vegasred.com/*
+*://*.1711  vegasregalcasino.com/*
+*://*.1712  vegasskycasino.com/*
+*://*.1713  vegasslotcasino.com/*
+*://*.1714  vegastowers.eu/*
+*://*.1715  vegasvilla.eu/*
+*://*.1716  verajohn.com/*
+*://*.1717  verdecasino.com/*
+*://*.1718  vernons.com/*
+*://*.1719  veryvegas.co.uk/*
+*://*.172  argocasino.com/*
+*://*.1720  westcasino.com/*
+*://*.1721  whamoo.com/*
+*://*.1722  whitebet.com/*
+*://*.1723  whitelionbets.com/*
+*://*.1724  victorchandler.com/*
+*://*.1725  videopokerlux.com/*
+*://*.1726  videopokersaloon.com/*
+*://*.1727  videoslots.com/*
+*://*.1728  vietbet.com/*
+*://*.1729  vietbet.eu/*
+*://*.173  argocasino38.com/*
+*://*.1730  viet-casino.com/*
+*://*.1731  viewcasino.com/*
+*://*.1732  vikingbetpoker.com/*
+*://*.1733  vikingslots.com/*
+*://*.1734  wildjackcasino.com/*
+*://*.1735  wildpharao.com/*
+*://*.1736  wildtokyo.com/*
+*://*.1737  wildtornado.com/*
+*://*.1738  wildtornado.vip/*
+*://*.1739  wildtornado1.com/*
+*://*.174  artemisbet200.net/*
+*://*.1740  villento.com/*
+*://*.1741  williamhill.com/*
+*://*.1742  williamhillcasino.com/*
+*://*.1744  win4real.com/*
+*://*.1745  winaday.com/*
+*://*.1746  winadaycasino.eu/*
+*://*.1747  winagames.com/*
+*://*.1748  winamax.com/*
+*://*.1749  winamax.fr/*
+*://*.175  aspinalls.com/*
+*://*.1750  winawin.com/*
+*://*.1751  winbig21.com/*
+*://*.1752  wincake.com/*
+*://*.1753  windowscasino.com/*
+*://*.1754  winfest.com/*
+*://*.1755  winkbingo.com/*
+*://*.1756  winkslots.com/*
+*://*.1757  winline.ru/*
+*://*.1758  winner.com/*
+*://*.1759  winnermillion.com/*
+*://*.176  aspinallspoker.com/*
+*://*.1760  winneroogames.co.uk/*
+*://*.1761  winnings.com/*
+*://*.1762  winolla.com/*
+*://*.1763  winorama.com/*
+*://*.1764  winpalace.com/*
+*://*.1765  winpalace.im/*
+*://*.1766  winpalace-ads.com/*
+*://*.1767  winzinator.com/*
+*://*.1768  wintika.com/*
+*://*.1769  wintingo.com/*
+*://*.177  astekbet.com/*
+*://*.1770  winwardcasino.ag/*
+*://*.1771  winwardcasino.com/*
+*://*.1773  vipcasino.com/*
+*://*.1774  vipslot.club/*
+*://*.1775  vipslts.com/*
+*://*.1776  vipsports.eu/*
+*://*.1777  virgingames.com/*
+*://*.1778  virtualcitycasino.com/*
+*://*.1779  virtualcitycasino.eu/*
+*://*.178  asteriapoker.com/*
+*://*.1780  virtualcitypoker.com/*
+*://*.1781  wizbet.com/*
+*://*.1782  vitalbet.com/*
+*://*.1783  vivemoncasino.com/*
+*://*.1784  wixstars.com/*
+*://*.1785  wm-bingo.com/*
+*://*.1786  volcanicgold.com/*
+*://*.1787  wptcasino.com/*
+*://*.1788  wptpoker.com/*
+*://*.1789  vulcan-casino.com/*
+*://*.179  azart-mania.com/*
+*://*.1790  vulkanbet.com/*
+*://*.1791  vulkanvegas.com/*
+*://*.1792  vulkanvegas151.com/*
+*://*.1793  wwin.com/*
+*://*.1794  xtip.com/*
+*://*.1795  yabbycasino.com/*
+*://*.1796  yachting-casino.com/*
+*://*.1797  yakocasino.com/*
+*://*.1798  yolocasino.com/*
+*://*.1799  yourbet.com/*
+*://*.18  188bet.com/*
+*://*.180  azartplay.com/*
+*://*.1800  youwin.com/*
+*://*.1801  yoyocasino.com/*
+*://*.1802  yoyocasino4.com/*
+*://*.1803  ysb88.com/*
+*://*.1804  yukoncold.casino/*
+*://*.1805  yukongoldcasino.eu/*
+*://*.181  azartzona.com/*
+*://*.182  aztecasino.com/*
+*://*.183  aztecrichescasino.com/*
+*://*.184  aztecrichescasino.eu/*
+*://*.185  aztecrichespoker.com/*
+*://*.186  aztecwins.com/*
+*://*.187  atlanticspins.com/*
+*://*.188  atlaslivecasino.com/*
+*://*.189  atospoker.com/*
+*://*.19  188games.com/*
+*://*.190  attheracescasino.com/*
+*://*.191  auslots.com/*
+*://*.192  awhpoker.com/*
+*://*.193  babe.casino/*
+*://*.194  babibet.com/*
+*://*.195  babylonbet.com/*
+*://*.196  ballpoker.com/*
+*://*.197  bambapoker.com/*
+*://*.198  baocasino.com/*
+*://*.199  bbet.it/*
 *://*.1xgwn.host/*
 *://*.1xljj.xyz/*
 *://*.1xmobcht.xyz/*
@@ -46,6 +813,26 @@
 *://*.1xpmq.host/*
 *://*.1xslot.com/*
 *://*.1xsoh.xyz/*
+*://*.20  18bet.com/*
+*://*.200  b-bets.com/*
+*://*.201  bcasino.com/*
+*://*.202  bellabingo.com/*
+*://*.203  belliscasino.com/*
+*://*.204  belliscasino.dk/*
+*://*.205  belmont.ag/*
+*://*.206  belmont.com/*
+*://*.207  bestecasino.com/*
+*://*.208  bestpoker.com/*
+*://*.209  bestwinpoker.com/*
+*://*.21  1960bet.com/*
+*://*.212  bet24.com/*
+*://*.213  bet2u.com/*
+*://*.214  bet3000.com/*
+*://*.215  bet-52.com/*
+*://*.216  bet770.com/*
+*://*.217  betandyou.com/*
+*://*.218  betanysports.eu/*
+*://*.219  bet-at.eu/*
 *://*.21bet21.com/*
 *://*.21casino.com/*
 *://*.21dukes.com/*
@@ -55,6 +842,38 @@
 *://*.21novaitaly.com/*
 *://*.21novaitla.com/*
 *://*.21novaitlyano.com/*
+*://*.22  1acasino.com/*
+*://*.220  bet-at-home.com/*
+*://*.221  betballer.com/*
+*://*.222  betbellavegas.com/*
+*://*.223  betbigdollar.com/*
+*://*.224  betbigdollarcasino.com/*
+*://*.225  betboo.com/*
+*://*.226  betboys.casino/*
+*://*.227  betbright.com/*
+*://*.228  betcart.com/*
+*://*.229  betcasinograndbay.com/*
+*://*.23  1allrightcasino.com/*
+*://*.230  betcave.com/*
+*://*.231  betchain.com/*
+*://*.232  betchain4.com/*
+*://*.233  betchan.com/*
+*://*.234  betcity.ru/*
+*://*.235  betclic.com/*
+*://*.236  betcoin.ag/*
+*://*.237  betcris.com/*
+*://*.238  betdaq.com/*
+*://*.239  betdsi.eu/*
+*://*.24  1bet.com/*
+*://*.240  betdsi.net/*
+*://*.241  beteast.eu/*
+*://*.242  betfair.com/*
+*://*.243  betfair.es/*
+*://*.244  betfaircasino.com/*
+*://*.245  betfinal.com/*
+*://*.247  betflag.it/*
+*://*.248  betfred.com/*
+*://*.249  bethard.com/*
 *://*.24casino1.bet/*
 *://*.24hbet.com/*
 *://*.24hcasino.com/*
@@ -63,689 +882,678 @@
 *://*.24openpoker.com/*
 *://*.24playcasino.com/*
 *://*.24poker.com/*
+*://*.25  1bet2bet.com/*
+*://*.250  bet-ibc.com/*
+*://*.251  betinternet.com/*
+*://*.252  betitall.com/*
+*://*.253  betjupiterclub.com/*
+*://*.254  betking.com/*
+*://*.255  betlm.eu/*
+*://*.256  betman-casino.com/*
+*://*.257  betmatch.io/*
+*://*.258  betmostpoker.com/*
+*://*.259  betmotion.com/*
+*://*.26  1burancasino.com/*
+*://*.260  betngo.com/*
+*://*.261  betolino.com/*
+*://*.262  betonline.ag/*
+*://*.263  betonline.com/*
+*://*.264  betonusa.ag/*
+*://*.265  betoto.com/*
+*://*.266  betpassion.com/*
+*://*.267  betplay.com.co/*
+*://*.268  betpoint.it/*
+*://*.269  betpokerexchange.com/*
+*://*.27  1clubcasino.com/*
+*://*.270  betpop.eu/*
+*://*.271  betpro.it/*
+*://*.272  betraiser.com/*
+*://*.273  betrally.com/*
+*://*.274  betrebels.com/*
+*://*.275  betredkings.com/*
+*://*.276  betroadhousereels.com/*
+*://*.277  betroyal24.com/*
+*://*.278  bets10go.com/*
+*://*.279  betsedge.com/*
+*://*.28  1livecasino.com/*
+*://*.280  betser.com/*
+*://*.281  betsid.com/*
+*://*.282  betsonic.com/*
+*://*.283  betspace.com/*
+*://*.284  betspin.com/*
+*://*.285  betsson.com/*
+*://*.286  betsupremacy.ag/*
+*://*.287  betzest.com/*
+*://*.288  bettheglobe.eu/*
+*://*.289  bettiamoci.it/*
+*://*.29  1luckybirdcasino.com/*
+*://*.290  bettilt99.com/*
+*://*.291  bettingchamps.eu/*
+*://*.292  bettome.com/*
+*://*.293  bettor.com/*
+*://*.294  betus.com.pa/*
+*://*.295  betusa.ag/*
+*://*.296  betway.com/*
+*://*.297  betvenice.com/*
+*://*.298  betvictor.com/*
+*://*.299  betvili.com/*
 *://*.2betab.com/*
 *://*.2loto.com/*
+*://*.30  1pledoo1.com/*
+*://*.300  betvillafortuna.com/*
+*://*.301  betwinner.com/*
+*://*.302  betwinner1.com/*
+*://*.303  betworld.com/*
+*://*.304  bgo.com/*
+*://*.305  bgtgames.com/*
+*://*.306  bigbangcasino.com/*
+*://*.307  bigbenpoker.com/*
+*://*.308  bigbetpoker.com/*
+*://*.309  bigslick.co.uk/*
+*://*.31  1red.com/*
+*://*.310  big-win-casino.com/*
+*://*.311  billioncasino.com/*
+*://*.312  bingo770.com/*
+*://*.313  bingoballroom.com/*
+*://*.314  bingobesties.com/*
+*://*.315  bingoboom.ru/*
+*://*.316  bingocabin.com/*
+*://*.317  bingocafe.com/*
+*://*.318  bingoformoney.ag/*
+*://*.319  bingohall.ag/*
+*://*.32  1stlines.com/*
+*://*.320  bingoidol.com/*
+*://*.321  bingoonthebox.com/*
+*://*.322  bingosky.com/*
+*://*.323  bitcasino.io/*
+*://*.324  bitcoincasino.io/*
+*://*.325  bitcoinpenguin.com/*
+*://*.326  bitcoinrush.io/*
+*://*.327  bitdreams.com/*
+*://*.328  bitstarz.com/*
+*://*.329  bitstarz18.com/*
 *://*.32red.com/*
 *://*.32redbet.com/*
 *://*.32redbingo.com/*
 *://*.32redmobile.com/*
 *://*.32redpoker.com/*
 *://*.32redsport.com/*
+*://*.33  1supercatcasino.com/*
+*://*.330  bitstarz20.com/*
+*://*.331  bitstarz41.com/*
+*://*.332  bitstarz59.com/*
+*://*.333  bitzillions.com/*
+*://*.334  bkfonbet.com/*
+*://*.335  bkmaxline.ru/*
+*://*.336  blackchippoker.com/*
+*://*.337  blackdiamondcasino.net/*
+*://*.338  blackjackballroom.com/*
+*://*.339  blackjackballroom.eu/*
+*://*.34  1vulknvegas421.com/*
+*://*.340  blackjacklux.com/*
+*://*.341  blacklabelcasino.com/*
+*://*.342  blubet.it/*
+*://*.343  blueleo.com/*
+*://*.344  bluesq.com/*
+*://*.345  boaboa1.com/*
+*://*.346  bobcasino.com/*
+*://*.347  bodog.co.uk/*
+*://*.348  bodog.eu/*
+*://*.349  bodog88.com/*
+*://*.35  1xbet.co.ke/*
+*://*.350  bohocasino.com/*
+*://*.351  bombapoker.com/*
+*://*.352  bonanzagame.com/*
+*://*.353  boocasino.com/*
+*://*.354  bookmaker.eu/*
+*://*.355  bootleggercasino.com/*
+*://*.356  bountypkr.com/*
+*://*.357  bovada.lv/*
+*://*.358  bovegas.com/*
+*://*.359  box24casino.com/*
+*://*.36  1xbet.com/*
+*://*.360  boylecasino.com/*
 *://*.360PKR.com/*
+*://*.361  boylepoker.com/*
+*://*.362  boylesports.com/*
+*://*.363  breakoutcasino.com/*
+*://*.364  broadwaytables.com/*
+*://*.365  bronzecasino.com/*
 *://*.365betpower.com/*
+*://*.366  brpokerclube.com/*
+*://*.367  brucepoker.com/*
+*://*.368  brunocasino.com/*
+*://*.369  bsidebet.com/*
 *://*.36bol.com/*
 *://*.36win.be/*
+*://*.37  1x-bet.com/*
+*://*.370  buckandbutler.com/*
+*://*.371  buffalospins.com/*
+*://*.372  bulldog777.com/*
+*://*.373  burancasino3.net/*
+*://*.374  burropoker.com/*
+*://*.375  buzzcasino.com/*
+*://*.376  buzzluck.com/*
+*://*.377  buzzpoker.com/*
 *://*.377bet.com/*
+*://*.378  butlersbingo.com/*
+*://*.379  bwin.com/*
+*://*.38  1xbet.kz/*
+*://*.380  bwin.es/*
+*://*.381  bwin.fr/*
+*://*.382  bwin.it/*
+*://*.383  bwin-client.com/*
+*://*.384  cabaretclub.com/*
+*://*.385  caesarscasino.co.uk/*
+*://*.386  caesarscasino.com/*
+*://*.387  cakepoker.com/*
+*://*.388  cakepoker.eu/*
+*://*.389  callofpoker.com/*
+*://*.39  1xbet788.com/*
+*://*.390  camasino.com/*
+*://*.391  cameocasino.com/*
+*://*.392  campeonbet.com/*
+*://*.393  campeonuk.com/*
+*://*.394  campobet.com/*
+*://*.395  campobet7.com/*
+*://*.396  canbet.com/*
+*://*.397  canbetpoker.com/*
+*://*.398  captaincookscasino.com/*
+*://*.399  captaincookscasino.eu/*
 *://*.3bets10.com/*
 *://*.3dice.com/*
+*://*.40  1xbetua.com/*
+*://*.400  captaincookspoker.com/*
+*://*.401  carbonpoker.ag/*
+*://*.402  carbonpoker.com/*
+*://*.403  cardbet.com/*
+*://*.404  cardcasino.com/*
+*://*.405  caribbeangold.com/*
+*://*.406  caribsports.com/*
+*://*.407  carlospoker.com/*
+*://*.408  carnivalcasino.com/*
+*://*.409  cashalot.bet/*
+*://*.41  1xbit.com/*
+*://*.410  casholotcasino.com/*
+*://*.411  cashpoint.com/*
+*://*.412  cashpotcasino.com/*
+*://*.413  casilando.com/*
+*://*.414  casimba.com/*
+*://*.415  casimpo.com/*
+*://*.416  casineto.net/*
+*://*.417  casinex.com/*
+*://*.418  casinia1.com/*
+*://*.419  casinia2.com/*
+*://*.420  casinia4.com/*
+*://*.421  casinia7.com/*
+*://*.426  casino.com/*
+*://*.429  casino.mx/*
+*://*.431  casino.net/*
+*://*.440  casino04.com/*
+*://*.441  casino1club.com/*
+*://*.442  casino440.com/*
+*://*.443  casino4dreams.com/*
+*://*.444  casino4u.io/*
 *://*.444sports.com/*
-*://*.4donk.com/*
-*://*.4grinz.com/*
-*://*.4kingslots.com/*
-*://*.5050poker.com/*
-*://*.50starscasino.com/*
+*://*.445  casino6lux.com/*
+*://*.446  casino770.com/*
+*://*.447  casino848.com/*
+*://*.448  casinoaction.com/*
+*://*.449  casino-astoria.com/*
+*://*.450  casinobellini.com/*
+*://*.451  casinobigbank.com/*
+*://*.452  casinoblusky.com/*
+*://*.453  casinobordeaux.com/*
+*://*.454  casinocasino.com/*
+*://*.455  casinoclassic.at/*
+*://*.456  casinoclassic.ch/*
+*://*.457  casinoclassic.com/*
+*://*.458  casinoclassic.de/*
+*://*.459  casinoclassic.dk/*
+*://*.460  casino-classic.eu/*
+*://*.461  casinoclassic.ru/*
+*://*.462  casinoclassic.se/*
+*://*.463  casinoclub.com/*
+*://*.464  casinoclubpoker.com/*
+*://*.465  casinocolumbus.com/*
+*://*.466  casinocruise.com/*
+*://*.467  casinodejaneiro.com/*
+*://*.468  casinodelrio.com/*
+*://*.469  casinodep.com/*
+*://*.470  casinodipoker.com/*
+*://*.471  casinodisco.com/*
+*://*.472  casinoelegance.com/*
+*://*.473  casinoempire.com/*
+*://*.474  casinoepoca.com/*
+*://*.475  casinoespresso.com/*
+*://*.476  casinoestrellaofficial.com/*
+*://*.477  casino-estrellas.com/*
+*://*.478  casinoeuro.com/*
+*://*.479  casinoextra.com/*
+*://*.480  casinofantasia.com/*
+*://*.481  casinofantasy.com/*
+*://*.482  casinoglamour.com/*
+*://*.483  casinogods.com/*
+*://*.484  casinogrande.com/*
+*://*.485  casinogym.com/*
+*://*.486  casinoheroes.com/*
+*://*.487  casinohuone.com/*
+*://*.488  casinoisy.com/*
+*://*.489  casinojoy.com/*
+*://*.490  casinoking.com/*
+*://*.491  casinokingdom.com/*
+*://*.492  casinokingdom.eu/*
+*://*.493  casinoklas.com/*
+*://*.494  casinolasvegas.com/*
+*://*.495  casinolasvilis.net/*
+*://*.496  casinolavida.com/*
+*://*.497  casinoluck.com/*
+*://*.498  casinoluckywin.com/*
+*://*.499  casinolusitano.com/*
+*://*.500  casinolust.com/*
+*://*.501  casinolux.com/*
+*://*.502  casino-mate.com/*
+*://*.503  casinomaxi10.com/*
+*://*.504  casinomaxi2.com/*
+*://*.505  casinomaxi5.com/*
+*://*.506  casinomaxi9.com/*
+*://*.507  casinometropol1.com/*
+*://*.508  casinometropol5.com/*
+*://*.509  casinometropol8.com/*
+*://*.510  casinometropol9.com/*
+*://*.511  casinomia.com/*
+*://*.512  casinomidas.com/*
+*://*.513  casinomoons.com/*
+*://*.514  casino-n1.com/*
+*://*.515  casino-n1-bet.com/*
+*://*.516  casinonapoli.com/*
+*://*.517  casino-nirvana.com/*
+*://*.518  casinonoir.com/*
+*://*.519  casinoofdreams.uk/*
 *://*.51argocasino.com/*
-*://*.5betpoker.com/*
-*://*.5dimes.eu/*
-*://*.5gringos1.com/*
-*://*.5poker5.com/*
+*://*.520  casinoonline.com/*
+*://*.521  casino-on-net.com/*
+*://*.522  casinooreanda.com/*
+*://*.523  casinoplex.com/*
+*://*.524  casinoredkings.com/*
+*://*.525  casinorex.com/*
+*://*.526  casinorgy.com/*
+*://*.527  casinoriva.com/*
+*://*.528  casinoroom.com/*
+*://*.529  casinoroyalclub.com/*
+*://*.530  casinosexy.biz/*
+*://*.531  casinoshare.eu/*
+*://*.532  casinoshare.net/*
+*://*.533  casinosieger.com/*
+*://*.534  casinoslava.com/*
+*://*.535  casino-solera.com/*
+*://*.536  casinosplendido.com/*
+*://*.537  casinoswiss.com/*
+*://*.538  casinozer.com/*
+*://*.539  casinotitan.com/*
+*://*.540  casinotitan.im/*
+*://*.541  casinotreasure.com/*
+*://*.542  casinotriomphe.com/*
+*://*.543  casinotropez.com/*
+*://*.544  casinouk.com/*
+*://*.545  casino-vulcan.com/*
+*://*.546  casino-x.com/*
+*://*.547  casitsu.com/*
+*://*.548  casollo.com/*
+*://*.549  casoo.com/*
+*://*.550  castlecasino.com/*
+*://*.551  casumo.com/*
+*://*.552  cbet.gg/*
+*://*.553  cbet.lt/*
+*://*.554  cdpoker.com/*
+*://*.555  celticcasino.com/*
+*://*.556  centrebet.com/*
+*://*.557  challengecasino.com/*
+*://*.558  chancehill.com/*
+*://*.559  chanceroom.com/*
+*://*.560  chaplingames.net/*
+*://*.561  cheekyriches.com/*
+*://*.562  cherrycasino.com/*
+*://*.563  cherryredcasino.com/*
+*://*.564  chilli777.com/*
+*://*.565  chivalrycasino.com/*
+*://*.566  chocolatepoker.com/*
+*://*.567  cinemacasino.co.uk/*
+*://*.568  cinemacasino.com/*
+*://*.569  circlebet.com/*
+*://*.570  circuscasino.com/*
+*://*.571  cirruscasino.net/*
+*://*.572  cirsa.es/*
+*://*.573  cirsa.it/*
+*://*.574  cityclubcasino.com/*
+*://*.575  citytowercasino.com/*
+*://*.576  classicbet.com/*
+*://*.577  classicpoker.com/*
+*://*.578  classycoin.com/*
+*://*.579  classycoin.me/*
+*://*.580  cleopatracasino.com/*
+*://*.581  cleopatras-casino.com/*
+*://*.582  cleopatraspalacecasino.com/*
+*://*.583  cloudbet.com/*
+*://*.584  club777.com/*
+*://*.585  clubdicecasino.com/*
+*://*.586  clubeurocasino.com/*
+*://*.587  clubgoldcasino.com/*
+*://*.588  clubplayercasino.com/*
+*://*.589  clubvegasusa.com/*
+*://*.590  clubworldcasinos.com/*
+*://*.591  clubvulcan.com/*
+*://*.592  club-vulkan.com/*
+*://*.593  cobracasino.com/*
+*://*.594  cobracasino15.com/*
+*://*.595  cocoacasino.com/*
+*://*.596  coinbet24.com/*
+*://*.597  coinsaga.com/*
+*://*.598  colosseumcasino.com/*
+*://*.599  colosseumpoker.com/*
+*://*.600  coltpoker.com/*
+*://*.601  comeon.com/*
+*://*.602  commodorecasino.com/*
+*://*.603  conquercasino.com/*
+*://*.604  coolcatcasino.com/*
+*://*.605  coolcat-casino.com/*
+*://*.606  coolhandpoker.com/*
+*://*.607  copacabanapoker.com/*
+*://*.608  coral.co.uk/*
+*://*.609  cosmicslot.com/*
+*://*.610  cosmicslot123.com/*
+*://*.611  cosmicslot4.com/*
+*://*.612  cosmicslot5.com/*
+*://*.613  cosmicslot6.com/*
+*://*.614  cosmicslot8.com/*
+*://*.615  cosmikcasino.com/*
+*://*.616  cosmocasino.com/*
+*://*.617  cozyno.com/*
+*://*.618  crackerbingo.com/*
+*://*.619  craps.com/*
+*://*.620  crapslux.com/*
+*://*.621  crashpoker.com/*
+*://*.622  crazycasinoclub.com/*
+*://*.623  crazyluckcasino.com/*
+*://*.624  crazypoker.co.uk/*
+*://*.625  crazypoker.com/*
+*://*.626  crazyslots.com/*
+*://*.627  crazyvegas.com/*
+*://*.628  crazyvegascasino.co.uk/*
+*://*.629  cresuscasino.com/*
+*://*.630  cristalpalaceonline.com/*
+*://*.631  cristalpoker.com/*
+*://*.632  cristalpoker2.com/*
+*://*.633  crownbet.com.au/*
+*://*.634  crowneurope.com/*
+*://*.635  crsportsbet.ag/*
+*://*.636  crypto-games.net/*
+*://*.637  cryptoslots.com/*
+*://*.638  cryptowild.com/*
+*://*.639  crystalspin.com/*
+*://*.640  csgoempire.com/*
+*://*.641  cyberclubcasino.com/*
+*://*.642  dabberbingo.com/*
+*://*.643  dafabet.com/*
+*://*.644  dafapoker.com/*
+*://*.645  dailydime.eu/*
+*://*.646  dailystarpoker.com/*
+*://*.647  dashcasino.com/*
+*://*.648  dasistcasino.com/*
+*://*.649  dasistcasino.net/*
+*://*.650  dazard.com/*
+*://*.651  dazzlecasino.com/*
+*://*.652  davincisgold.com/*
+*://*.653  dcasinolive.com/*
+*://*.654  deluxewin.com/*
+*://*.655  denderacasino.com/*
+*://*.656  desertdollar.eu/*
+*://*.657  desertnightscasino.co.uk/*
+*://*.658  desertnightscasino.com/*
+*://*.659  desertnightscasino.im/*
+*://*.660  desperatehousewivesbingo.com/*
+*://*.661  deuceclub.com/*
+*://*.662  devilfish.com/*
+*://*.663  dhoze.com/*
+*://*.664  diamondbet.com/*
+*://*.665  diamondreels.com/*
+*://*.666  diamondvipcasino.com/*
+*://*.667  diamondworldcasino.com/*
+*://*.668  dicearena.com/*
+*://*.669  digibet.com/*
+*://*.670  dimeline.eu/*
+*://*.671  dinkumpokies.com/*
+*://*.672  directbet.eu/*
+*://*.673  ditobet.com/*
+*://*.674  dogsfortune.com/*
+*://*.675  dollaropoker.com/*
+*://*.676  donpoker.com/*
+*://*.677  donscasino.com/*
+*://*.678  doubleuponline.com/*
+*://*.679  doxxbet.com/*
+*://*.680  doylescasino.com/*
+*://*.681  doylesroom.com/*
+*://*.682  drakecasino.eu/*
+*://*.683  dreambingo.co.uk/*
+*://*.684  dreamjackpot.com/*
+*://*.685  dreamlandcasino.com/*
+*://*.686  drvegas.com/*
+*://*.687  dublinbet.com/*
+*://*.688  duel5.com/*
+*://*.689  duelbits.com/*
+*://*.690  dukescasino.com/*
+*://*.691  dunder.com/*
+*://*.692  dusktilldawnpoker.com/*
+*://*.693  eaglecasino.com/*
+*://*.694  easybets.com/*
+*://*.696  efbet.com/*
+*://*.697  efortuny.es/*
+*://*.698  egocasino.com/*
+*://*.699  egocasino3.com/*
 *://*.6bets10.com/*
-*://*.6black.com/*
-*://*.707casino.com/*
-*://*.710casino.eu/*
+*://*.700  egocasino4.com/*
+*://*.701  egocasino5.com/*
+*://*.702  eightstorm.com/*
+*://*.703  eldoradopalace.com/*
+*://*.704  electricspins.com/*
+*://*.705  elitemobilecasino.co.uk/*
+*://*.706  emojino.com/*
+*://*.707  empirecasino.com/*
+*://*.708  empirepoker.com/*
+*://*.709  emucasino.com/*
+*://*.713  energycasino.com/*
+*://*.714  englishharbour.com/*
+*://*.715  enzocasino.com/*
+*://*.716  enterbet.com/*
+*://*.717  entercasino.com/*
+*://*.718  ep338.com/*
+*://*.719  erootilisedmangud.ee/*
+*://*.720  esportgaming.com/*
+*://*.721  estorilsolcasinos.pt/*
+*://*.722  estxbet.com/*
+*://*.723  ezbets.com/*
+*://*.724  eucasino.com/*
+*://*.725  eucasino2.com/*
+*://*.726  eucitycasino.com/*
+*://*.727  eurobet.it/*
+*://*.728  eurocasinobet.com/*
+*://*.729  eurogrand.com/*
+*://*.730  eurojackpot.org/*
+*://*.731  eurolotto.com/*
+*://*.732  euromania.com/*
+*://*.733  euromillions.com/*
+*://*.734  euromillions.ee/*
+*://*.735  euromooncasino.com/*
+*://*.736  europacasino.com/*
+*://*.737  europacasino.org.uk/*
+*://*.738  europalace.com/*
+*://*.739  europe-bet.com/*
+*://*.740  europoker.com/*
+*://*.741  euroslots.com/*
+*://*.742  eurosuperpoker.com/*
+*://*.743  eurovip88.com/*
+*://*.744  eusportsbook.com/*
+*://*.745  everest6casino.com/*
+*://*.746  everestcasino.com/*
+*://*.747  everestpoker.com/*
+*://*.748  everumcasino.com/*
+*://*.749  evobet.com/*
+*://*.750  evropakazino.ru/*
+*://*.751  exclusivebet.eu/*
+*://*.752  exclusivecasino.com/*
+*://*.753  expekt.biz/*
+*://*.754  expekt.com/*
+*://*.755  expekt.it/*
+*://*.756  expektita.com/*
+*://*.757  expektitaly.com/*
+*://*.758  explosino.com/*
+*://*.759  explosino3.com/*
+*://*.760  eypobet.com/*
 *://*.770.com/*
-*://*.777.com/*
-*://*.777dragon.com/*
-*://*.777dragoncasino.com/*
-*://*.777dragoncasino.eu/*
-*://*.777mister.com/*
-*://*.777originals.com/*
-*://*.777slotsbay.com/*
-*://*.77spins.com/*
-*://*.7Carte.com/*
-*://*.7bitcasino.com/*
-*://*.7bitcasino9.com/*
-*://*.7kasino.com/*
-*://*.7red.com/*
-*://*.7redping.win/*
-*://*.7reels.com/*
-*://*.7regal.com/*
-*://*.7spins.com/*
-*://*.7sultan.com/*
-*://*.7sultans.eu/*
-*://*.7sultanscasino.com/*
-*://*.871bets10.com/*
-*://*.888-poker.com/*
-*://*.888.com/*
-*://*.888bingo.com/*
-*://*.888casino.com/*
-*://*.888casino.info/*
-*://*.888games.com/*
-*://*.888ladies.com/*
-*://*.888poker.com/*
-*://*.888poker.ee/*
-*://*.888poker.es/*
-*://*.888sport.com/*
-*://*.8bets10.com/*
-*://*.90bet.gr/*
-*://*.Sandboxcasino.io/*
-*://*.abcislands.com/*
-*://*.absolutepoker.com/*
-*://*.aced.com/*
-*://*.acelivecasino.com/*
-*://*.aceluckycasino.com/*
-*://*.acesportsbetting.com/*
-*://*.actionpoker.com/*
-*://*.adamevecasino.com/*
-*://*.adda52.com/*
-*://*.adjarabet.com/*
-*://*.adlercasino.com/*
-*://*.admiral-x.com/*
-*://*.admiralbet.com/*
+*://*.815  g2gpros.com/*
+*://*.816  galabingo.co.uk/*
+*://*.817  galabingo.com/*
+*://*.818  galacasino.co.uk/*
+*://*.819  galacasino.com/*
+*://*.820  gamblerspalace.com/*
+*://*.821  gamdom.com/*
+*://*.824  games770.com/*
+*://*.825  gametwist.com/*
+*://*.826  gametwist.net/*
+*://*.827  gamingclub.co.uk/*
+*://*.828  gamingclub.com/*
+*://*.829  gamingclub1.com/*
+*://*.83  4donk.com/*
+*://*.830  genesiscasino.com/*
+*://*.831  gentingcasino.com/*
+*://*.832  getslots.com/*
+*://*.833  gg.bet/*
+*://*.834  ggpoker.co.uk/*
+*://*.835  giantspins.com/*
+*://*.836  giantvegas.com/*
+*://*.837  gibsoncasino.com/*
+*://*.838  globallivecasino.com/*
+*://*.839  gnuf.com/*
+*://*.84  4grinz.com/*
+*://*.840  gocasino.com/*
+*://*.841  goldbet.com/*
+*://*.842  goldencavecasino.com/*
+*://*.843  goldencherry.com/*
+*://*.844  goldencherry-ads.com/*
+*://*.845  goldeneuro.com/*
+*://*.846  goldengame.org/*
+*://*.847  goldenladycasino.com/*
+*://*.848  goldenlion.im/*
+*://*.849  goldenlionnew.com/*
+*://*.85  4kingslots.com/*
+*://*.850  goldenlounge.com/*
+*://*.851  goldenpalace.be/*
+*://*.852  goldenpalace.com/*
+*://*.853  goldenreefcasino.com/*
+*://*.854  goldenrivieracasino.com/*
+*://*.855  goldenstar-casino.com/*
+*://*.856  goldenstar-casino1.com/*
+*://*.857  goldentiger.casino/*
+*://*.858  goldentigercasino.com/*
+*://*.859  goldentigerpoker.com/*
+*://*.86  5050poker.com/*
+*://*.860  goldfishka.com/*
+*://*.861  goldmancasino.com/*
+*://*.862  goldruncasino.com/*
+*://*.863  goldwinportal.com/*
+*://*.864  goldvipclub.com/*
+*://*.865  goliathcasino.com/*
+*://*.866  goodwincasino.com/*
+*://*.867  gossipslots.eu/*
+*://*.868  gowildcasino.com/*
+*://*.869  gowildcasino.net/*
+*://*.87  50starscasino.com/*
+*://*.870  gr88.com/*
+*://*.871  grand-casino.com/*
+*://*.872  grandduke.com/*
+*://*.873  grandeaglecasino.com/*
+*://*.874  grandevegascasino.com/*
+*://*.875  grandfortunecasino.com/*
+*://*.876  grandhotelcasino.com/*
+*://*.877  grandmacaocasino.com/*
+*://*.878  grandmaster-casino.com/*
+*://*.879  grandmondial.casino/*
+*://*.88  5betpoker.com/*
+*://*.880  grandmondial.com/*
+*://*.881  grandmondial.eu/*
+*://*.882  grandonline.com/*
+*://*.883  grandparker.com/*
+*://*.884  grandparker.me/*
+*://*.885  grandparkerads.com/*
+*://*.886  grandparker-casino.com/*
+*://*.887  grandplaycasino.com/*
+*://*.888  grandreefcasino.com/*
+*://*.889  gratorama.com/*
+*://*.89  5dimes.eu/*
+*://*.890  greenjokerpoker.com/*
+*://*.891  greenplay.mx/*
+*://*.892  grinluck.com/*
+*://*.893  grosvenorcasinos.com/*
+*://*.894  gtbets.eu/*
+*://*.895  gudarcasino.com/*
+*://*.896  gunsbet.com/*
+*://*.897  gunsbet1.com/*
+*://*.898  guruplay.com/*
+*://*.899  guts.com/*
+*://*.90  5gringos1.com/*
+*://*.900  habanapoker.com/*
+*://*.901  halkbet.com/*
+*://*.902  handyvegas.com/*
+*://*.903  hansapoker.com/*
+*://*.904  happyhugocasino.com/*
+*://*.905  happywinner.de/*
+*://*.906  harrycasino.com/*
+*://*.907  heavencasinolive.com/*
+*://*.908  heavychips.com/*
+*://*.909  heypoker.com/*
+*://*.91  5poker5.com/*
+*://*.910  highnooncasino.com/*
+*://*.911  highpulsepoker.com/*
+*://*.912  hilifepoker.com/*
+*://*.913  hippodromeonline.com/*
+*://*.914  holidaypoker.com/*
+*://*.915  hollywoodpoker.com/*
+*://*.916  hollywoodsportsbook.com/*
+*://*.917  hopa.com/*
+*://*.918  horuscasino.com/*
+*://*.92  6black.com/*
+*://*.93  707casino.com/*
+*://*.94  710casino.eu/*
+*://*.95  777.com/*
+*://*.96  777dragon.com/*
+*://*.97  777dragoncasino.com/*
+*://*.98  777dragoncasino.eu/*
+*://*.984  k2casino.com/*
+*://*.985  k2casinoonline.com/*
+*://*.986  kaboo.com/*
+*://*.987  kahunacasino.com/*
+*://*.988  kaiserslots.com/*
+*://*.989  karamba.com/*
+*://*.99  777mister.com/*
+*://*.990  kassu.com/*
+*://*.991  kazinoroyal.com/*
+*://*.992  katsubet.com/*
+*://*.993  kerchingcasino.com/*
+*://*.994  kickoffpoker.com/*
+*://*.995  kimvegas.com/*
+*://*.996  kingbillycasino.com/*
+*://*.997  kingcasino.com/*
+*://*.998  kingdomcasino.com/*
+*://*.999  kingmidaspoker.com/*
 *://*.admiralxxx.net/*
-*://*.africanpalacecasino.com/*
-*://*.agentsino.com/*
-*://*.akpokerclub.com/*
-*://*.aladdinsgoldcasino.com/*
-*://*.albdigitalpoker.com/*
-*://*.alfalivecasino.com/*
-*://*.alfcasino1.com/*
-*://*.alicepoker.com/*
-*://*.allaustraliancasino.com/*
-*://*.allbritishcasino.com/*
-*://*.allirishcasino.com/*
-*://*.alljackpotscasino.com/*
-*://*.allpokercasino.com/*
-*://*.allpro.ag/*
-*://*.allslotscasino.ca/*
-*://*.allslotscasino.com/*
-*://*.allstarslots.com/*
-*://*.allstarsportsbook.com/*
-*://*.alwaysvegas.eu/*
-*://*.americascardroom.eu/*
-*://*.amsterdamspoker.com/*
-*://*.anonibet.com/*
-*://*.anonymous-casino.com/*
-*://*.anybetja.com/*
-*://*.aplaycasino.com/*
-*://*.apollobet.com/*
-*://*.apuestas.com/*
-*://*.arbat-casino.com/*
-*://*.arcadespins.com/*
-*://*.argocasino.com/*
-*://*.argocasino38.com/*
-*://*.artemisbet200.net/*
-*://*.aspinalls.com/*
-*://*.aspinallspoker.com/*
-*://*.astekbet.com/*
-*://*.asteriapoker.com/*
-*://*.atlanticspins.com/*
-*://*.atlaslivecasino.com/*
-*://*.atospoker.com/*
-*://*.attheracescasino.com/*
-*://*.auslots.com/*
-*://*.awhpoker.com/*
-*://*.azart-mania.com/*
-*://*.azartplay.com/*
-*://*.azartzona.com/*
-*://*.aztecasino.com/*
-*://*.aztecrichescasino.com/*
-*://*.aztecrichescasino.eu/*
-*://*.aztecrichespoker.com/*
-*://*.aztecwins.com/*
-*://*.b-bets.com/*
-*://*.babe.casino/*
-*://*.babibet.com/*
-*://*.babylonbet.com/*
 *://*.balkanbet.com/*
-*://*.ballpoker.com/*
-*://*.bambapoker.com/*
-*://*.baocasino.com/*
-*://*.bbet.it/*
-*://*.bcasino.com/*
-*://*.bellabingo.com/*
-*://*.belliscasino.com/*
-*://*.belliscasino.dk/*
-*://*.belmont.ag/*
-*://*.belmont.com/*
-*://*.bestecasino.com/*
-*://*.bestpoker.com/*
-*://*.bestwinpoker.com/*
-*://*.bet-52.com/*
-*://*.bet-at-home.com/*
-*://*.bet-at.eu/*
-*://*.bet-ibc.com/*
-*://*.bet24.com/*
-*://*.bet2u.com/*
-*://*.bet3000.com/*
 *://*.bet365.com/*
-*://*.bet770.com/*
-*://*.betandyou.com/*
-*://*.betanysports.eu/*
-*://*.betballer.com/*
-*://*.betbellavegas.com/*
-*://*.betbigdollar.com/*
-*://*.betbigdollarcasino.com/*
-*://*.betboo.com/*
-*://*.betboys.casino/*
-*://*.betbright.com/*
-*://*.betcart.com/*
-*://*.betcasinograndbay.com/*
-*://*.betcave.com/*
-*://*.betchain.com/*
-*://*.betchain4.com/*
-*://*.betchan.com/*
-*://*.betcity.ru/*
-*://*.betclic.com/*
-*://*.betcoin.ag/*
-*://*.betcris.com/*
-*://*.betdaq.com/*
-*://*.betdsi.eu/*
-*://*.betdsi.net/*
-*://*.beteast.eu/*
-*://*.betfair.com/*
-*://*.betfair.es/*
-*://*.betfaircasino.com/*
-*://*.betfinal.com/*
-*://*.betflag.it/*
-*://*.betfred.com/*
-*://*.bethard.com/*
-*://*.betinternet.com/*
-*://*.betitall.com/*
-*://*.betjupiterclub.com/*
-*://*.betking.com/*
-*://*.betlm.eu/*
-*://*.betman-casino.com/*
-*://*.betmatch.io/*
-*://*.betmostpoker.com/*
-*://*.betmotion.com/*
-*://*.betngo.com/*
-*://*.betolino.com/*
-*://*.betonline.ag/*
-*://*.betonline.com/*
-*://*.betonusa.ag/*
-*://*.betoto.com/*
-*://*.betpassion.com/*
-*://*.betplay.com.co/*
-*://*.betpoint.it/*
-*://*.betpokerexchange.com/*
-*://*.betpop.eu/*
-*://*.betpro.it/*
-*://*.betraiser.com/*
-*://*.betrally.com/*
-*://*.betrebels.com/*
-*://*.betredkings.com/*
-*://*.betroadhousereels.com/*
-*://*.betroyal24.com/*
-*://*.bets10go.com/*
-*://*.betsedge.com/*
-*://*.betser.com/*
-*://*.betsid.com/*
-*://*.betsonic.com/*
-*://*.betspace.com/*
-*://*.betspin.com/*
-*://*.betsson.com/*
-*://*.betsupremacy.ag/*
-*://*.bettheglobe.eu/*
-*://*.bettiamoci.it/*
-*://*.bettilt99.com/*
-*://*.bettingchamps.eu/*
-*://*.bettome.com/*
-*://*.bettor.com/*
-*://*.betus.com.pa/*
-*://*.betusa.ag/*
-*://*.betvenice.com/*
-*://*.betvictor.com/*
-*://*.betvili.com/*
-*://*.betvillafortuna.com/*
-*://*.betway.com/*
-*://*.betwinner.com/*
-*://*.betwinner1.com/*
-*://*.betworld.com/*
-*://*.betzest.com/*
-*://*.bgo.com/*
-*://*.bgtgames.com/*
-*://*.big-win-casino.com/*
-*://*.bigbangcasino.com/*
-*://*.bigbenpoker.com/*
-*://*.bigbetpoker.com/*
-*://*.bigslick.co.uk/*
-*://*.billioncasino.com/*
-*://*.bingo770.com/*
-*://*.bingoballroom.com/*
-*://*.bingobesties.com/*
-*://*.bingoboom.ru/*
-*://*.bingocabin.com/*
-*://*.bingocafe.com/*
-*://*.bingoformoney.ag/*
-*://*.bingohall.ag/*
-*://*.bingoidol.com/*
-*://*.bingoonthebox.com/*
-*://*.bingosky.com/*
-*://*.bitcasino.io/*
-*://*.bitcoincasino.io/*
-*://*.bitcoinpenguin.com/*
-*://*.bitcoinrush.io/*
-*://*.bitdreams.com/*
-*://*.bitstarz.com/*
-*://*.bitstarz18.com/*
-*://*.bitstarz20.com/*
-*://*.bitstarz41.com/*
-*://*.bitstarz59.com/*
-*://*.bitzillions.com/*
-*://*.bkfonbet.com/*
-*://*.bkmaxline.ru/*
-*://*.blackchippoker.com/*
-*://*.blackdiamondcasino.net/*
-*://*.blackjackballroom.com/*
-*://*.blackjackballroom.eu/*
-*://*.blackjacklux.com/*
-*://*.blacklabelcasino.com/*
-*://*.blubet.it/*
-*://*.blueleo.com/*
-*://*.bluesq.com/*
-*://*.boaboa1.com/*
-*://*.bobcasino.com/*
-*://*.bodog.co.uk/*
-*://*.bodog.eu/*
-*://*.bodog88.com/*
-*://*.bohocasino.com/*
-*://*.bombapoker.com/*
-*://*.bonanzagame.com/*
 *://*.bonzospins.com/*
-*://*.boocasino.com/*
-*://*.bookmaker.eu/*
-*://*.bootleggercasino.com/*
-*://*.bountypkr.com/*
-*://*.bovada.lv/*
-*://*.bovegas.com/*
-*://*.box24casino.com/*
-*://*.boylecasino.com/*
-*://*.boylepoker.com/*
-*://*.boylesports.com/*
-*://*.breakoutcasino.com/*
-*://*.broadwaytables.com/*
-*://*.bronzecasino.com/*
-*://*.brpokerclube.com/*
-*://*.brucepoker.com/*
-*://*.brunocasino.com/*
-*://*.bsidebet.com/*
-*://*.buckandbutler.com/*
-*://*.buffalospins.com/*
-*://*.bulldog777.com/*
-*://*.burancasino3.net/*
-*://*.burropoker.com/*
-*://*.butlersbingo.com/*
-*://*.buzzcasino.com/*
-*://*.buzzluck.com/*
-*://*.buzzpoker.com/*
-*://*.bwin-client.com/*
-*://*.bwin.com/*
-*://*.bwin.es/*
-*://*.bwin.fr/*
-*://*.bwin.it/*
-*://*.cabaretclub.com/*
-*://*.caesarscasino.co.uk/*
-*://*.caesarscasino.com/*
-*://*.cakepoker.com/*
-*://*.cakepoker.eu/*
-*://*.callofpoker.com/*
-*://*.camasino.com/*
-*://*.cameocasino.com/*
-*://*.campeonbet.com/*
-*://*.campeonuk.com/*
-*://*.campobet.com/*
-*://*.campobet7.com/*
-*://*.canbet.com/*
-*://*.canbetpoker.com/*
-*://*.captaincookscasino.com/*
-*://*.captaincookscasino.eu/*
-*://*.captaincookspoker.com/*
-*://*.carbonpoker.ag/*
-*://*.carbonpoker.com/*
-*://*.cardbet.com/*
-*://*.cardcasino.com/*
-*://*.caribbeangold.com/*
-*://*.caribsports.com/*
-*://*.carlospoker.com/*
-*://*.carnivalcasino.com/*
-*://*.cashalot.bet/*
-*://*.casholotcasino.com/*
-*://*.cashpoint.com/*
-*://*.cashpotcasino.com/*
-*://*.casilando.com/*
-*://*.casimba.com/*
-*://*.casimpo.com/*
-*://*.casineto.net/*
-*://*.casinex.com/*
-*://*.casinia1.com/*
-*://*.casinia2.com/*
-*://*.casinia4.com/*
-*://*.casinia7.com/*
-*://*.casino-astoria.com/*
-*://*.casino-classic.eu/*
-*://*.casino-estrellas.com/*
-*://*.casino-mate.com/*
-*://*.casino-n1-bet.com/*
-*://*.casino-n1.com/*
-*://*.casino-nirvana.com/*
-*://*.casino-on-net.com/*
-*://*.casino-solera.com/*
-*://*.casino-vulcan.com/*
-*://*.casino-x.com/*
-*://*.casino.com/*
-*://*.casino.mx/*
-*://*.casino.net/*
-*://*.casino04.com/*
-*://*.casino1club.com/*
-*://*.casino440.com/*
-*://*.casino4dreams.com/*
-*://*.casino4u.io/*
-*://*.casino6lux.com/*
-*://*.casino770.com/*
-*://*.casino848.com/*
-*://*.casinoaction.com/*
-*://*.casinobellini.com/*
-*://*.casinobigbank.com/*
-*://*.casinoblusky.com/*
-*://*.casinobordeaux.com/*
-*://*.casinocasino.com/*
-*://*.casinoclassic.at/*
-*://*.casinoclassic.ch/*
-*://*.casinoclassic.com/*
-*://*.casinoclassic.de/*
-*://*.casinoclassic.dk/*
-*://*.casinoclassic.ru/*
-*://*.casinoclassic.se/*
-*://*.casinoclub.com/*
-*://*.casinoclubpoker.com/*
-*://*.casinocolumbus.com/*
-*://*.casinocruise.com/*
-*://*.casinodejaneiro.com/*
-*://*.casinodelrio.com/*
-*://*.casinodep.com/*
-*://*.casinodipoker.com/*
-*://*.casinodisco.com/*
-*://*.casinoelegance.com/*
-*://*.casinoempire.com/*
-*://*.casinoepoca.com/*
-*://*.casinoespresso.com/*
-*://*.casinoestrellaofficial.com/*
-*://*.casinoeuro.com/*
-*://*.casinoextra.com/*
-*://*.casinofantasia.com/*
-*://*.casinofantasy.com/*
-*://*.casinoglamour.com/*
-*://*.casinogods.com/*
-*://*.casinogrande.com/*
-*://*.casinogym.com/*
-*://*.casinoheroes.com/*
-*://*.casinohuone.com/*
-*://*.casinoisy.com/*
-*://*.casinojoy.com/*
-*://*.casinoking.com/*
-*://*.casinokingdom.com/*
-*://*.casinokingdom.eu/*
-*://*.casinoklas.com/*
-*://*.casinolasvegas.com/*
-*://*.casinolasvilis.net/*
-*://*.casinolavida.com/*
-*://*.casinoluck.com/*
-*://*.casinoluckywin.com/*
-*://*.casinolusitano.com/*
-*://*.casinolust.com/*
-*://*.casinolux.com/*
-*://*.casinomaxi10.com/*
-*://*.casinomaxi2.com/*
-*://*.casinomaxi5.com/*
-*://*.casinomaxi9.com/*
-*://*.casinometropol1.com/*
-*://*.casinometropol5.com/*
-*://*.casinometropol8.com/*
-*://*.casinometropol9.com/*
-*://*.casinomia.com/*
-*://*.casinomidas.com/*
-*://*.casinomoons.com/*
-*://*.casinonapoli.com/*
-*://*.casinonoir.com/*
-*://*.casinoofdreams.uk/*
-*://*.casinoonline.com/*
-*://*.casinooreanda.com/*
-*://*.casinoplex.com/*
-*://*.casinoredkings.com/*
-*://*.casinorex.com/*
-*://*.casinorgy.com/*
-*://*.casinoriva.com/*
-*://*.casinoroom.com/*
-*://*.casinoroyalclub.com/*
-*://*.casinosexy.biz/*
-*://*.casinoshare.eu/*
-*://*.casinoshare.net/*
-*://*.casinosieger.com/*
-*://*.casinoslava.com/*
-*://*.casinosplendido.com/*
-*://*.casinoswiss.com/*
-*://*.casinotitan.com/*
-*://*.casinotitan.im/*
-*://*.casinotreasure.com/*
-*://*.casinotriomphe.com/*
-*://*.casinotropez.com/*
-*://*.casinouk.com/*
-*://*.casinozer.com/*
-*://*.casitsu.com/*
-*://*.casollo.com/*
-*://*.casoo.com/*
-*://*.castlecasino.com/*
-*://*.casumo.com/*
-*://*.cbet.gg/*
-*://*.cbet.lt/*
-*://*.cdpoker.com/*
-*://*.celticcasino.com/*
-*://*.centrebet.com/*
-*://*.challengecasino.com/*
-*://*.chancehill.com/*
-*://*.chanceroom.com/*
-*://*.chaplingames.net/*
-*://*.cheekyriches.com/*
 *://*.chelseapalace.com/*
-*://*.cherrycasino.com/*
-*://*.cherryredcasino.com/*
-*://*.chilli777.com/*
-*://*.chivalrycasino.com/*
-*://*.chocolatepoker.com/*
-*://*.cinemacasino.co.uk/*
-*://*.cinemacasino.com/*
-*://*.circlebet.com/*
-*://*.circuscasino.com/*
-*://*.cirruscasino.net/*
-*://*.cirsa.es/*
-*://*.cirsa.it/*
-*://*.cityclubcasino.com/*
-*://*.citytowercasino.com/*
-*://*.classicbet.com/*
-*://*.classicpoker.com/*
-*://*.classycoin.com/*
-*://*.classycoin.me/*
-*://*.cleopatracasino.com/*
-*://*.cleopatras-casino.com/*
-*://*.cleopatraspalacecasino.com/*
-*://*.cloudbet.com/*
-*://*.club-vulkan.com/*
-*://*.club777.com/*
-*://*.clubdicecasino.com/*
-*://*.clubeurocasino.com/*
-*://*.clubgoldcasino.com/*
-*://*.clubplayercasino.com/*
-*://*.clubvegasusa.com/*
-*://*.clubvulcan.com/*
-*://*.clubworldcasinos.com/*
 *://*.co.ee/*
-*://*.cobracasino.com/*
-*://*.cobracasino15.com/*
-*://*.cocoacasino.com/*
-*://*.coinbet24.com/*
-*://*.coinsaga.com/*
-*://*.colosseumcasino.com/*
-*://*.colosseumpoker.com/*
-*://*.coltpoker.com/*
-*://*.comeon.com/*
-*://*.commodorecasino.com/*
-*://*.conquercasino.com/*
-*://*.coolcat-casino.com/*
-*://*.coolcatcasino.com/*
-*://*.coolhandpoker.com/*
-*://*.copacabanapoker.com/*
-*://*.coral.co.uk/*
-*://*.cosmicslot.com/*
-*://*.cosmicslot123.com/*
-*://*.cosmicslot4.com/*
-*://*.cosmicslot5.com/*
-*://*.cosmicslot6.com/*
-*://*.cosmicslot8.com/*
-*://*.cosmikcasino.com/*
-*://*.cosmocasino.com/*
-*://*.cozyno.com/*
-*://*.crackerbingo.com/*
-*://*.craps.com/*
-*://*.crapslux.com/*
-*://*.crashpoker.com/*
-*://*.crazycasinoclub.com/*
-*://*.crazyluckcasino.com/*
-*://*.crazypoker.co.uk/*
-*://*.crazypoker.com/*
-*://*.crazyslots.com/*
-*://*.crazyvegas.com/*
-*://*.crazyvegascasino.co.uk/*
-*://*.cresuscasino.com/*
-*://*.cristalpalaceonline.com/*
-*://*.cristalpoker.com/*
-*://*.cristalpoker2.com/*
-*://*.crownbet.com.au/*
-*://*.crowneurope.com/*
-*://*.crsportsbet.ag/*
-*://*.crypto-games.net/*
-*://*.cryptoslots.com/*
-*://*.cryptowild.com/*
-*://*.crystalspin.com/*
-*://*.csgoempire.com/*
-*://*.cyberclubcasino.com/*
-*://*.dabberbingo.com/*
-*://*.dafabet.com/*
-*://*.dafapoker.com/*
-*://*.dailydime.eu/*
-*://*.dailystarpoker.com/*
-*://*.dashcasino.com/*
-*://*.dasistcasino.com/*
-*://*.dasistcasino.net/*
-*://*.davincisgold.com/*
-*://*.dazard.com/*
-*://*.dazzlecasino.com/*
-*://*.dcasinolive.com/*
-*://*.deluxewin.com/*
-*://*.denderacasino.com/*
-*://*.desertdollar.eu/*
-*://*.desertnightscasino.co.uk/*
-*://*.desertnightscasino.com/*
-*://*.desertnightscasino.im/*
-*://*.desperatehousewivesbingo.com/*
-*://*.deuceclub.com/*
-*://*.devilfish.com/*
 *://*.dhnet.be/*
-*://*.dhoze.com/*
-*://*.diamondbet.com/*
-*://*.diamondreels.com/*
-*://*.diamondvipcasino.com/*
-*://*.diamondworldcasino.com/*
-*://*.dicearena.com/*
-*://*.digibet.com/*
-*://*.dimeline.eu/*
-*://*.dinkumpokies.com/*
-*://*.directbet.eu/*
-*://*.ditobet.com/*
-*://*.dogsfortune.com/*
-*://*.dollaropoker.com/*
-*://*.donpoker.com/*
-*://*.donscasino.com/*
-*://*.doubleuponline.com/*
-*://*.doxxbet.com/*
-*://*.doylescasino.com/*
-*://*.doylesroom.com/*
-*://*.drakecasino.eu/*
-*://*.dreambingo.co.uk/*
-*://*.dreamjackpot.com/*
-*://*.dreamlandcasino.com/*
-*://*.drvegas.com/*
-*://*.dublinbet.com/*
-*://*.duel5.com/*
-*://*.duelbits.com/*
-*://*.dukescasino.com/*
-*://*.dunder.com/*
-*://*.dusktilldawnpoker.com/*
-*://*.eaglecasino.com/*
-*://*.easybets.com/*
-*://*.efbet.com/*
-*://*.efortuny.es/*
-*://*.egocasino.com/*
 *://*.egocasino3.com/*
-*://*.egocasino4.com/*
-*://*.egocasino5.com/*
-*://*.eightstorm.com/*
-*://*.eldoradopalace.com/*
-*://*.electricspins.com/*
-*://*.elitemobilecasino.co.uk/*
-*://*.emojino.com/*
-*://*.empirecasino.com/*
-*://*.empirepoker.com/*
-*://*.emucasino.com/*
-*://*.energycasino.com/*
-*://*.englishharbour.com/*
-*://*.enterbet.com/*
-*://*.entercasino.com/*
-*://*.enzocasino.com/*
-*://*.ep338.com/*
-*://*.erootilisedmangud.ee/*
-*://*.esportgaming.com/*
-*://*.estorilsolcasinos.pt/*
-*://*.estxbet.com/*
-*://*.eucasino.com/*
-*://*.eucasino2.com/*
-*://*.eucitycasino.com/*
-*://*.eurobet.it/*
-*://*.eurocasinobet.com/*
-*://*.eurogrand.com/*
-*://*.eurojackpot.org/*
-*://*.eurolotto.com/*
 *://*.euromania-it.com/*
-*://*.euromania.com/*
-*://*.euromillions.com/*
-*://*.euromillions.ee/*
-*://*.euromooncasino.com/*
-*://*.europacasino.com/*
-*://*.europacasino.org.uk/*
-*://*.europalace.com/*
-*://*.europe-bet.com/*
-*://*.europoker.com/*
-*://*.euroslots.com/*
-*://*.eurosuperpoker.com/*
-*://*.eurovip88.com/*
-*://*.eusportsbook.com/*
-*://*.everest6casino.com/*
-*://*.everestcasino.com/*
-*://*.everestpoker.com/*
-*://*.everumcasino.com/*
-*://*.evobet.com/*
-*://*.evropakazino.ru/*
-*://*.exclusivebet.eu/*
-*://*.exclusivecasino.com/*
-*://*.expekt.biz/*
-*://*.expekt.com/*
-*://*.expekt.it/*
-*://*.expektita.com/*
-*://*.expektitaly.com/*
-*://*.explosino.com/*
-*://*.explosino3.com/*
-*://*.eypobet.com/*
-*://*.ezbets.com/*
 *://*.fabspins.com/*
 *://*.fabulouspoker.com/*
 *://*.faccedapoker8.com/*
@@ -802,112 +1610,10 @@
 *://*.fun88.com/*
 *://*.funcasino.com/*
 *://*.futuriti.com/*
-*://*.g2gpros.com/*
-*://*.galabingo.co.uk/*
-*://*.galabingo.com/*
-*://*.galacasino.co.uk/*
-*://*.galacasino.com/*
-*://*.gamblerspalace.com/*
-*://*.gamdom.com/*
 *://*.gamebookers.com/*
-*://*.games770.com/*
-*://*.gametwist.com/*
-*://*.gametwist.net/*
-*://*.gamingclub.co.uk/*
-*://*.gamingclub.com/*
-*://*.gamingclub1.com/*
-*://*.genesiscasino.com/*
-*://*.gentingcasino.com/*
-*://*.getslots.com/*
-*://*.gg.bet/*
-*://*.ggpoker.co.uk/*
 *://*.ggpoker.com/*
 *://*.ggpoker.eu/*
-*://*.giantspins.com/*
-*://*.giantvegas.com/*
-*://*.gibsoncasino.com/*
-*://*.globallivecasino.com/*
-*://*.gnuf.com/*
-*://*.gocasino.com/*
-*://*.goldbet.com/*
-*://*.goldencavecasino.com/*
-*://*.goldencherry-ads.com/*
-*://*.goldencherry.com/*
-*://*.goldeneuro.com/*
-*://*.goldengame.org/*
-*://*.goldenladycasino.com/*
-*://*.goldenlion.im/*
-*://*.goldenlionnew.com/*
-*://*.goldenlounge.com/*
-*://*.goldenpalace.be/*
-*://*.goldenpalace.com/*
-*://*.goldenreefcasino.com/*
-*://*.goldenrivieracasino.com/*
-*://*.goldenstar-casino.com/*
-*://*.goldenstar-casino1.com/*
-*://*.goldentiger.casino/*
-*://*.goldentigercasino.com/*
-*://*.goldentigerpoker.com/*
-*://*.goldfishka.com/*
-*://*.goldmancasino.com/*
-*://*.goldruncasino.com/*
-*://*.goldvipclub.com/*
-*://*.goldwinportal.com/*
-*://*.goliathcasino.com/*
-*://*.goodwincasino.com/*
-*://*.gossipslots.eu/*
-*://*.gowildcasino.com/*
-*://*.gowildcasino.net/*
-*://*.gr88.com/*
-*://*.grand-casino.com/*
-*://*.grandduke.com/*
-*://*.grandeaglecasino.com/*
-*://*.grandevegascasino.com/*
-*://*.grandfortunecasino.com/*
-*://*.grandhotelcasino.com/*
-*://*.grandmacaocasino.com/*
-*://*.grandmaster-casino.com/*
-*://*.grandmondial.casino/*
-*://*.grandmondial.com/*
-*://*.grandmondial.eu/*
-*://*.grandonline.com/*
-*://*.grandparker-casino.com/*
-*://*.grandparker.com/*
-*://*.grandparker.me/*
-*://*.grandparkerads.com/*
-*://*.grandplaycasino.com/*
-*://*.grandreefcasino.com/*
-*://*.gratorama.com/*
 *://*.greatbritaincasino.com/*
-*://*.greenjokerpoker.com/*
-*://*.greenplay.mx/*
-*://*.grinluck.com/*
-*://*.grosvenorcasinos.com/*
-*://*.gtbets.eu/*
-*://*.gudarcasino.com/*
-*://*.gunsbet.com/*
-*://*.gunsbet1.com/*
-*://*.guruplay.com/*
-*://*.guts.com/*
-*://*.habanapoker.com/*
-*://*.halkbet.com/*
-*://*.handyvegas.com/*
-*://*.hansapoker.com/*
-*://*.happyhugocasino.com/*
-*://*.happywinner.de/*
-*://*.harrycasino.com/*
-*://*.heavencasinolive.com/*
-*://*.heavychips.com/*
-*://*.heypoker.com/*
-*://*.highnooncasino.com/*
-*://*.highpulsepoker.com/*
-*://*.hilifepoker.com/*
-*://*.hippodromeonline.com/*
-*://*.holidaypoker.com/*
-*://*.hollywoodpoker.com/*
-*://*.hollywoodsportsbook.com/*
-*://*.hopa.com/*
-*://*.horuscasino.com/*
 *://*.i-mmm.com/*
 *://*.i4poker.com/*
 *://*.iasbet.com/*
@@ -973,36 +1679,6 @@
 *://*.juicystakes.eu/*
 *://*.justbet.cx/*
 *://*.justbit.com/*
-*://*.k2casino.com/*
-*://*.k2casinoonline.com/*
-*://*.kaboo.com/*
-*://*.kahunacasino.com/*
-*://*.kaiserslots.com/*
-*://*.karamba.com/*
-*://*.kassu.com/*
-*://*.katsubet.com/*
-*://*.kazinoroyal.com/*
-*://*.kerchingcasino.com/*
-*://*.kickoffpoker.com/*
-*://*.kimvegas.com/*
-*://*.kingbillycasino.com/*
-*://*.kingcasino.com/*
-*://*.kingdomcasino.com/*
-*://*.kingmidaspoker.com/*
-*://*.kingneptunescasino.com/*
-*://*.kingneptunescasino.eu/*
-*://*.kingsolomons.com/*
-*://*.kingsolomons.it/*
-*://*.kombolotto.com/*
-*://*.konungcasino.com/*
-*://*.kosmonautcasino.com/*
-*://*.krooncasino.com/*
-*://*.kroonikabingo.com/*
-*://*.ksbingo.com/*
-*://*.ksonlinecasino.com/*
-*://*.kspoker.com/*
-*://*.kto.com/*
-*://*.kudoscasino.com/*
 *://*.ladbrokes.com/*
 *://*.ladydream.com/*
 *://*.ladyhammercasino.com/*
@@ -1099,692 +1775,22 @@
 *://*.luckywins.io/*
 *://*.luxbet.com/*
 *://*.luxurycasino.com/*
-*://*.m8poker.com/*
-*://*.macaobet-online.com/*
-*://*.macaucasino4.com/*
-*://*.madamechance.com/*
-*://*.magicalspins.com/*
-*://*.magicboxcasino.com/*
-*://*.magicred.com/*
-*://*.magikcasino.com/*
-*://*.magikslots.com/*
-*://*.mailcasino.com/*
-*://*.majorbingo.com/*
-*://*.majorsportsbetting.com/*
-*://*.majortomcasino.com/*
-*://*.malibuclubcasino.com/*
-*://*.malinacasino.com/*
-*://*.malinacasino17.com/*
-*://*.mandarinpalace.com/*
-*://*.manekicasino.com/*
-*://*.manhattanslots.com/*
-*://*.mansion88.com/*
-*://*.mansioncasino.com/*
-*://*.mansionpoker.com/*
-*://*.maplecasino.ca/*
-*://*.marathonbet.com/*
-*://*.marathonbet.ru/*
-*://*.mariabingo.com/*
-*://*.mariacasino.com/*
-*://*.mariapoker.com/*
-*://*.mariaspoker.com/*
-*://*.mars.casino/*
-*://*.marsbet.com/*
-*://*.marsbet1.com/*
-*://*.marsbet6.com/*
-*://*.marsbet7.com/*
-*://*.marsbet9.com/*
-*://*.matchbook.com/*
-*://*.mavrodi-mmm-2011.com/*
-*://*.maxbetslots.ru/*
-*://*.maxline.by/*
-*://*.maxlinebk.net/*
-*://*.mayanfortune.com/*
-*://*.mayansports.eu/*
-*://*.mayflowercasino.com/*
-*://*.mazzogaming.com/*
-*://*.mbitcasino.com/*
-*://*.meccabingo.com/*
-*://*.megacasino.com/*
-*://*.megapari.com/*
-*://*.megasportcasino.com/*
-*://*.megavegas.com/*
-*://*.melbet.com/*
-*://*.meridianbet.com/*
-*://*.mermaidpoker.com/*
-*://*.metspoker.com/*
-*://*.mfortune.co.uk/*
-*://*.miamiclubcasino.im/*
-*://*.miamidice.com/*
-*://*.miamipoker.com/*
-*://*.midaur.com/*
-*://*.mightyslots.com/*
-*://*.millionairecasino.com/*
-*://*.millionaria.com/*
-*://*.mintbet.com/*
-*://*.mintedpoker.com/*
-*://*.mintedpoker.eu/*
-*://*.mobilebet.com/*
-*://*.monacoaces.com/*
-*://*.moneystorm.com/*
-*://*.mongoosecasino.com/*
-*://*.monte-casino.com/*
-*://*.montecryptos.com/*
-*://*.moobilegames.com/*
-*://*.moongames.com/*
-*://*.morespin.com/*
-*://*.mr-casino.com/*
-*://*.mrgreen.com/*
-*://*.mrjackvegas.com/*
-*://*.mrjamescasino.com/*
-*://*.mrpoker.com/*
-*://*.mrvegascasino.com/*
-*://*.mrxbet.com/*
-*://*.multilotto.com/*
-*://*.mummysgold.com/*
-*://*.musichallcasino.com/*
-*://*.musichallcasino.eu/*
-*://*.mybet.com/*
-*://*.mybookie.ag/*
-*://*.mycasinobest.com/*
-*://*.myjackpotcasino.com/*
-*://*.myliveonlinecasino.com/*
-*://*.mynamepoker.com/*
-*://*.mypokersite.com/*
-*://*.n1-bet-casino.com/*
 *://*.n1bet.com/*
-*://*.natural8.com/*
-*://*.net2netpoker.com/*
 *://*.netbet.co.uk/*
-*://*.netgamecasino.com/*
 *://*.netrefer.com/*
-*://*.neverfelted.eu/*
-*://*.nextcasino.com/*
-*://*.ngagewin.com/*
 *://*.nika.ee/*
-*://*.nikkibet4.net/*
-*://*.nitrogensports.eu/*
-*://*.noblecasino.com/*
-*://*.noblepoker.com/*
-*://*.nobonuscasino.com/*
-*://*.noiq.com/*
-*://*.nomini2.com/*
-*://*.nordicbet.com/*
-*://*.norgescasino.com/*
-*://*.norgesspill.com/*
-*://*.norskespill.com/*
-*://*.nostalgiacasino.com/*
-*://*.noxwin.com/*
-*://*.noxwin1.com/*
-*://*.nutspoker.com/*
-*://*.nyrabets.com/*
-*://*.oceanbets.com/*
-*://*.ocncasino.com/*
-*://*.oddsmaker.ag/*
-*://*.oddsring.com/*
-*://*.offsidebet.com/*
-*://*.og-casino.com/*
-*://*.ohmyzino.com/*
-*://*.okonlinecasino.com/*
-*://*.okonlinecasino.ee/*
-*://*.olimp.bet/*
-*://*.omnicasino.com/*
-*://*.omnislots.com/*
-*://*.onbling-casino.com/*
-*://*.onbling.com/*
-*://*.onbling.me/*
-*://*.onehash.com/*
-*://*.onlain-kazino.net/*
-*://*.online-casino.com/*
-*://*.online-kasiino.com/*
-*://*.onlinebingo.eu/*
-*://*.onlinecasino.ac/*
-*://*.onlinecasino365.com/*
-*://*.onlinevegas.com/*
-*://*.onlypoker.com/*
-*://*.opoker.com/*
-*://*.oranjecasino.com/*
-*://*.orientxpresscasino.com/*
-*://*.oshi.io/*
-*://*.outcomebet.com/*
-*://*.ovocasino.com/*
-*://*.oxi.casino/*
-*://*.ozlotteries.com/*
-*://*.pacificpoker.com/*
 *://*.paddypower.com/*
-*://*.palaceofchance.com/*
-*://*.palladiumcasino.eu/*
-*://*.pampercasino.com/*
-*://*.pantasia.com/*
-*://*.paradise8.com/*
-*://*.parasino1.com/*
 *://*.parimatch.by/*
-*://*.parimatch.com/*
-*://*.parimatch.ru/*
-*://*.partybets.com/*
-*://*.partybingo.com/*
-*://*.partycasino.com/*
-*://*.partypoker.com/*
-*://*.partypoker.es/*
-*://*.partypoker.it/*
-*://*.partypoker.net/*
-*://*.pcfcasino.com/*
-*://*.pdcpoker.com/*
-*://*.pelaa.com/*
-*://*.pelicancasino.games/*
-*://*.perpetuumpoker.com/*
-*://*.peterpalacecasino.com/*
-*://*.ph.casino/*
-*://*.phoeniciancasino.com/*
-*://*.phoeniciancasino.eu/*
-*://*.phonevegas.com/*
-*://*.piggscasino.com/*
-*://*.piggspeak.com/*
-*://*.piggybang.com/*
-*://*.pinbet88.com/*
-*://*.pinkcasino.co.uk/*
-*://*.pinkladycasino.com/*
-*://*.pinkladycasinoitalia.com/*
-*://*.pinnacle.com/*
-*://*.pinnaclesports.com/*
-*://*.pittsburghcasino.com/*
-*://*.pizazzbingo.com/*
-*://*.pkr.com/*
-*://*.planet23.com/*
-*://*.planet7casino.com/*
-*://*.platinumplay.eu/*
-*://*.platinumplaycasino.com/*
-*://*.play2wincasino.com/*
-*://*.play2wincasino.net/*
-*://*.play2wincasinos.com/*
-*://*.playabets.co.za/*
-*://*.playamo.com/*
-*://*.playatharrys.co/*
-*://*.playbet.com/*
-*://*.playdingo.com/*
-*://*.playersonly.ag/*
-*://*.playersonly.com/*
-*://*.playerspalacecasino.eu/*
-*://*.playeurojackpot.com/*
-*://*.playeurolotto.com/*
-*://*.playeuromillions.com/*
-*://*.playfortuna.com/*
-*://*.playfrank.com/*
-*://*.playhippo.com/*
-*://*.playhugelottos.com/*
-*://*.playmillion.com/*
-*://*.playojo.com/*
-*://*.playolg.ca/*
-*://*.playtoro.com/*
 *://*.playuk.com/*
-*://*.playunited.com/*
-*://*.plazaroyal.com/*
-*://*.pledoo.com/*
-*://*.plushbingo.com/*
-*://*.plushcasino.com/*
-*://*.pocketwin.co.uk/*
-*://*.pointpoker.com/*
-*://*.poker770.co.uk/*
-*://*.poker770.com/*
-*://*.poker848.com/*
-*://*.pokerbiker.com/*
-*://*.pokerdom.com/*
-*://*.pokereon.com/*
-*://*.pokerheaven.com/*
-*://*.pokerhills.com/*
-*://*.pokerimaa.com/*
-*://*.pokerloco.com/*
-*://*.pokermambo.com/*
-*://*.pokermax.com/*
-*://*.pokermira.com/*
 *://*.pokerok12.com/*
-*://*.pokerrewards.com/*
-*://*.pokerroom.com/*
-*://*.pokershare.com/*
-*://*.pokertime.eu/*
-*://*.pokerworld.com/*
-*://*.pokiepalace.com/*
-*://*.pokies2go.com/*
-*://*.portomasolive.com/*
-*://*.powerpoker.com/*
-*://*.powerspins.com/*
-*://*.powervegas.com/*
-*://*.premiercasino.es/*
-*://*.prestigecasino.com/*
-*://*.primaplay.eu/*
-*://*.primecasino.com/*
-*://*.primeslots.com/*
-*://*.prismcasino.com/*
-*://*.punt.casino/*
-*://*.pureplay.com/*
-*://*.purepoker.eu/*
-*://*.purevegascasino.com/*
-*://*.purple-lounge.com/*
-*://*.quasargaming.com/*
-*://*.quatrocasino.com/*
-*://*.rabona1.com/*
-*://*.racebets.com/*
-*://*.racebook.com/*
-*://*.reactcasino.com/*
 *://*.readytobet.com/*
-*://*.realbet.eu/*
-*://*.realbetting365.com/*
-*://*.realdealbet.com/*
-*://*.realpoker24.com/*
-*://*.realvegasonline.com/*
-*://*.redbet.com/*
-*://*.redflushcasino.com/*
-*://*.redflushcasino.eu/*
-*://*.redhotpoker.com/*
-*://*.redkings.com/*
-*://*.redping.win/*
-*://*.redslots.com/*
-*://*.redslotsvip.com/*
-*://*.redstarpoker.com/*
-*://*.reefclubcasino.com/*
-*://*.reelemperor.com/*
-*://*.regalscasino.com/*
-*://*.reloadbet12.com/*
-*://*.rembrandtcasino.com/*
-*://*.rialtocasino.com/*
-*://*.rialtovipcasino.com/*
-*://*.ricardoscasino.net/*
-*://*.richcasino.com/*
-*://*.richprize.com/*
-*://*.richreels.com/*
-*://*.rickycasino.com/*
-*://*.ridika.com/*
-*://*.rippercasino.com/*
-*://*.rivalo.com/*
-*://*.riverbelle.co.uk/*
-*://*.riverbelle.com/*
-*://*.riverbellecasino.com/*
-*://*.rivernilecasino.net/*
-*://*.rizk.com/*
-*://*.rockbet.com/*
-*://*.rockbet.net/*
-*://*.rollercasino.com/*
-*://*.romecasino.com/*
-*://*.romevipcasino.com/*
-*://*.roulette69.com/*
-*://*.roxypalace.com/*
-*://*.royaalcasino.com/*
-*://*.royal.bet/*
-*://*.royalacecasino.com/*
-*://*.royalapollo.com/*
-*://*.royalbets.com/*
-*://*.royalcitycasino.com/*
-*://*.royalloungecasino.com/*
-*://*.royalpanda.com/*
-*://*.royalvegas.co.uk/*
-*://*.royalvegas.eu/*
-*://*.royalvegascasino.com/*
-*://*.royalvegaspoker.com/*
-*://*.rubet.com/*
-*://*.rubyfortune.com/*
-*://*.rubyroyal.com/*
-*://*.rubyslots.com/*
-*://*.rushmoreonline.com/*
-*://*.russiancasino.com/*
-*://*.safaricasino.com/*
-*://*.safaricasino.eu/*
-*://*.saharasandscasino.net/*
-*://*.salutegame.com/*
-*://*.sanfrancasino.com/*
-*://*.sbobet.com/*
-*://*.scasino.com/*
-*://*.schmittscasino.com/*
-*://*.sci-fi-casino.com/*
-*://*.scratchmania.com/*
-*://*.segacasino.com/*
-*://*.segapoker.com/*
-*://*.sekabet.com/*
-*://*.sekabet106.com/*
-*://*.sergey-mavrodi-mmm.net/*
-*://*.sergey-mavrodi-mmm.org/*
-*://*.sergey-mavrodi.com/*
-*://*.sergey-mavrodi.ms/*
-*://*.sergeymavrodi.com/*
-*://*.shadowbit.io/*
-*://*.silkbingo.com/*
-*://*.silverdollar.com/*
-*://*.silveroakcasino.com/*
-*://*.silversandscasino.com/*
-*://*.simonsayscasino.com/*
-*://*.sizzlingslots.com/*
-*://*.skybet.com/*
-*://*.skybingo.com/*
-*://*.skykingscasino.com/*
-*://*.skypoker.com/*
-*://*.skytowercasino.com/*
-*://*.skyvegas.com/*
-*://*.slbet.com/*
-*://*.slingo.com/*
-*://*.slotastic.com/*
-*://*.slotjoint.com/*
-*://*.slotland.com/*
-*://*.slotmadness.com/*
-*://*.slotmagix.com/*
-*://*.slotocash.com/*
-*://*.slotocash.im/*
-*://*.slotohit.com/*
-*://*.slotoking.com/*
-*://*.slototop.com/*
-*://*.slotozen.com/*
-*://*.slotplanet.com/*
-*://*.slotpowers.com/*
-*://*.slots.lv/*
-*://*.slots500.com/*
-*://*.slotsandgames.com/*
-*://*.slotscapital.lv/*
 *://*.slotsdevil.com/*
-*://*.slotsdreamer.co/*
-*://*.slotsexpress.com/*
-*://*.slotsforce.com/*
-*://*.slotsgalore.com/*
-*://*.slotsjackpotcasino.com/*
-*://*.slotsjungle-ads.com/*
-*://*.slotsjungle.com/*
-*://*.slotsjungle.im/*
-*://*.slotsltd.com/*
-*://*.slotsmagic.com/*
-*://*.slotsmiller.com/*
-*://*.slotsoasis.com/*
-*://*.slotsoffortune.com/*
-*://*.slotsofvegas.com/*
-*://*.slotspalace1.com/*
 *://*.slotsplus.com/*
-*://*.slotsplus.eu/*
 *://*.slotstars.co.uk/*
-*://*.slotsuk.co.uk/*
-*://*.slotsvillage.ag/*
-*://*.slotsvillage.com/*
-*://*.slotsville.com/*
 *://*.slotszone.com/*
-*://*.slotter.com/*
-*://*.slottica18.com/*
-*://*.slottyvegas.com/*
-*://*.slotum.com/*
-*://*.slotum1.com/*
-*://*.sloty.com/*
-*://*.slotzo.com/*
-*://*.smartlivegaming.com/*
-*://*.sol.casino/*
-*://*.space.casino/*
-*://*.sparkleslots.com/*
-*://*.spartanslots.com/*
-*://*.spela.com/*
-*://*.spicyspins.com/*
-*://*.spinaru.com/*
-*://*.spinaway.com/*
-*://*.spincasino.co.uk/*
-*://*.spincasino.com/*
-*://*.spinero.com/*
-*://*.spinit.com/*
-*://*.spinmadness.com/*
-*://*.spinmadness17.com/*
-*://*.spinmillion.com/*
-*://*.spinmillion13.com/*
-*://*.spinpalace.com/*
-*://*.spinpalacepoker.com/*
-*://*.spinpug.com/*
-*://*.spinrider.com/*
-*://*.spinsamurai.com/*
-*://*.spinsbro.com/*
 *://*.spinsroyale.com/*
-*://*.spintropolis.com/*
-*://*.splitacescasino.com/*
-*://*.sportbet.com/*
-*://*.sportbook.com/*
-*://*.sportdafa.com/*
-*://*.sportempire.com/*
-*://*.sportfanatik.com/*
-*://*.sportingbet.com/*
-*://*.sportingbet.ru/*
 *://*.sportingbeteurope.com/*
-*://*.sportingindex.com/*
-*://*.sportsbet.com.au/*
-*://*.sportsbetting.ag/*
-*://*.sportsbook.ag/*
-*://*.sportsbook.ca/*
-*://*.sportsbook.com/*
-*://*.sportsbooks.com/*
-*://*.sportsbookusa.com/*
-*://*.sportsinteraction.com/*
-*://*.stack99.com/*
-*://*.stake.com/*
-*://*.stakes.com/*
-*://*.stanjames.com/*
-*://*.stargames.com/*
-*://*.starvegas.it/*
-*://*.stelario.com/*
-*://*.stickyslots.com/*
-*://*.stingbet.com/*
-*://*.stridepoker.com/*
-*://*.strikeitluckycasino.com/*
-*://*.sunmaker.com/*
-*://*.sunpalacecasino.com/*
-*://*.sunpalacecasino.eu/*
-*://*.sunpoker.com/*
-*://*.sunvegascasino.com/*
-*://*.suomikasino.com/*
-*://*.superbahis438.com/*
-*://*.supercasino.com/*
-*://*.supercatcasino77.com/*
-*://*.superiorcasino.com/*
-*://*.superlenny.com/*
-*://*.superslots.com/*
-*://*.supremeplay.com/*
-*://*.suprocasino.com/*
-*://*.sveacasino.com/*
-*://*.sven-play.com/*
-*://*.svenbet.com/*
-*://*.switch-poker.com/*
-*://*.switchpoker.com/*
-*://*.syndicate.casino/*
-*://*.tab.com.au/*
-*://*.tabtouch.com.au/*
-*://*.tempobet.com/*
-*://*.tennisi.bet/*
-*://*.terminalpoker.com/*
-*://*.thebescasino.com/*
-*://*.thegoldlounge.com/*
-*://*.thegreek.com/*
-*://*.thelotter.com/*
-*://*.theonlinecasino.co.uk/*
-*://*.thepalaces.com/*
-*://*.thexfactorgames.com/*
-*://*.thisisvegas.com/*
-*://*.thrills.com/*
-*://*.thunderluck.com/*
-*://*.tigergaming.com/*
-*://*.tilacasino.com/*
-*://*.tilapoker.com/*
-*://*.timelesspoker.com/*
-*://*.timessquarecasino.com/*
-*://*.tipbet.com/*
-*://*.tipico.com/*
-*://*.tipp24.com/*
-*://*.tiptopcasino.com/*
-*://*.titanbet.com/*
-*://*.titancasino.com/*
-*://*.titanpoker.com/*
-*://*.tivolicasino.com/*
-*://*.tobet.com/*
-*://*.topbet.com/*
-*://*.topbet.eu/*
-*://*.topbet.ug/*
-*://*.topsport.lt/*
-*://*.toptally.com/*
-*://*.totalpoker.com/*
-*://*.totesport.com/*
-*://*.tradacasino.com/*
-*://*.treasuremile.com/*
-*://*.tribelotto.com/*
-*://*.tropeziapalace.com/*
-*://*.tropicacasino.com/*
-*://*.trueflip.io/*
-*://*.truepoker.com/*
-*://*.tsars.com/*
-*://*.twistcasino.com/*
-*://*.ub.com/*
-*://*.ukcasino-club.co.uk/*
-*://*.ukcasinoclub.com/*
-*://*.ukcasinoclub.eu/*
-*://*.ultimatebet.com/*
-*://*.unibet.co.uk/*
-*://*.unibet.net/*
-*://*.unikrn.com/*
-*://*.uniquecasino.com/*
-*://*.uniquecasinovip.com/*
-*://*.upoker.net/*
-*://*.uptownaces.eu/*
-*://*.usstarcasino.com/*
-*://*.uwin.com/*
-*://*.va-bank.com/*
-*://*.vasycasino.com/*
-*://*.vavada.com/*
-*://*.vavadaen7.com/*
-*://*.vbet.com/*
-*://*.vegas7casino.com/*
-*://*.vegasbaby.casino/*
-*://*.vegasberry.com/*
-*://*.vegascasino.com/*
-*://*.vegascasino.io/*
-*://*.vegascasinoonline.com/*
-*://*.vegascasinoonline.eu/*
-*://*.vegascountrycasino.com/*
-*://*.vegasdays.com/*
-*://*.vegashero.com/*
-*://*.vegasjokercasino.com/*
-*://*.vegaspalms.com/*
-*://*.vegaspalms.eu/*
-*://*.vegaspalmscasino.com/*
-*://*.vegasparadise.com/*
-*://*.vegasred.com/*
-*://*.vegasregalcasino.com/*
-*://*.vegasskycasino.com/*
-*://*.vegasslotcasino.com/*
-*://*.vegastowers.eu/*
-*://*.vegasvilla.eu/*
-*://*.verajohn.com/*
-*://*.verdecasino.com/*
-*://*.vernons.com/*
-*://*.veryvegas.co.uk/*
-*://*.victorchandler.com/*
-*://*.videopokerlux.com/*
-*://*.videopokersaloon.com/*
-*://*.videoslots.com/*
-*://*.viet-casino.com/*
-*://*.vietbet.com/*
-*://*.vietbet.eu/*
-*://*.viewcasino.com/*
-*://*.vikingbetpoker.com/*
-*://*.vikingslots.com/*
-*://*.villento.com/*
-*://*.vipcasino.com/*
-*://*.vipslot.club/*
-*://*.vipslts.com/*
-*://*.vipsports.eu/*
-*://*.virgingames.com/*
-*://*.virtualcitycasino.com/*
-*://*.virtualcitycasino.eu/*
-*://*.virtualcitypoker.com/*
-*://*.vitalbet.com/*
-*://*.vivemoncasino.com/*
-*://*.volcanicgold.com/*
-*://*.vulcan-casino.com/*
-*://*.vulkanbet.com/*
-*://*.vulkanvegas.com/*
-*://*.vulkanvegas151.com/*
-*://*.wager.dm/*
-*://*.wagerup.eu/*
-*://*.wagerweb.ag/*
-*://*.walkerpoker.com/*
-*://*.wasspoker.com/*
-*://*.wazamba755.com/*
-*://*.wazamba777.com/*
-*://*.wazamba855.com/*
-*://*.webbyslot.com/*
-*://*.webbyslot.io/*
-*://*.westcasino.com/*
-*://*.whamoo.com/*
-*://*.whitebet.com/*
-*://*.whitelionbets.com/*
-*://*.wildjackcasino.com/*
-*://*.wildpharao.com/*
-*://*.wildtokyo.com/*
-*://*.wildtornado.com/*
-*://*.wildtornado.vip/*
-*://*.wildtornado1.com/*
-*://*.williamhill.com/*
-*://*.williamhillcasino.com/*
-*://*.win4real.com/*
-*://*.winaday.com/*
-*://*.winadaycasino.eu/*
-*://*.winagames.com/*
-*://*.winamax.com/*
-*://*.winamax.fr/*
-*://*.winawin.com/*
-*://*.winbig21.com/*
-*://*.wincake.com/*
-*://*.windowscasino.com/*
-*://*.winfest.com/*
-*://*.winkbingo.com/*
-*://*.winkslots.com/*
-*://*.winline.ru/*
 *://*.winline20.com/*
 *://*.winner.com/*
-*://*.winnermillion.com/*
-*://*.winneroogames.co.uk/*
-*://*.winnings.com/*
-*://*.winolla.com/*
-*://*.winorama.com/*
-*://*.winpalace-ads.com/*
-*://*.winpalace.com/*
-*://*.winpalace.im/*
 *://*.winspark.com/*
-*://*.wintika.com/*
-*://*.wintingo.com/*
-*://*.winwardcasino.ag/*
-*://*.winwardcasino.com/*
-*://*.winzinator.com/*
-*://*.wixstars.com/*
-*://*.wizbet.com/*
-*://*.wm-bingo.com/*
-*://*.wptcasino.com/*
-*://*.wptpoker.com/*
 *://*.wsop.com/*
-*://*.wwin.com/*
-*://*.xtip.com/*
-*://*.yabbycasino.com/*
-*://*.yachting-casino.com/*
-*://*.yakocasino.com/*
-*://*.yolocasino.com/*
-*://*.yourbet.com/*
-*://*.youwin.com/*
-*://*.yoyocasino.com/*
-*://*.yoyocasino4.com/*
-*://*.ysb88.com/*
-*://*.yukoncold.casino/*
-*://*.yukongoldcasino.eu/*
-*://*.zaycasino.com/*
-*://*.zebet.com/*
-*://*.zenbetting.com/*
-*://*.zencasino.com/*
-*://*.zencasino888.com/*
-*://*.zenitbet.com/*
-*://*.zenitbet888.com/*
-*://*.zerace.com/*
-*://*.zetcasino1.com/*
-*://*.zetcasino755.com/*
-*://*.zetpoker.eu/*
-*://*.zeturf.com/*
-*://*.zeusbingo.com/*
-*://*.zevcasino.com/*
-*://*.zigzag777.com/*
-*://*.zigzagsport.com/*
-*://*.zinkra.com/*
-*://*.zipangcasino.com/*
-*://*.zodiaccasino.com/*
-*://*.zulabet1.com/*
