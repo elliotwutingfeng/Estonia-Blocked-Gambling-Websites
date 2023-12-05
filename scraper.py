@@ -78,22 +78,21 @@ if __name__ == "__main__":
     registered_domains: set[str] = set(
         tldextract.extract(url).registered_domain for url in urls
     )
-    if urls:
-        timestamp: str = current_datetime_str()
-
-        filename = "blocklist.txt"
-        with open(filename, "w") as f:
-            f.writelines("\n".join(sorted(urls)))
-            logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
-
-        filename = "blocklist_UBL.txt"
-        with open(filename, "w") as f:
-            f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
-            logger.info(
-                "%d Registered Domains written to %s at %s",
-                len(registered_domains),
-                filename,
-                timestamp,
-            )
-    else:
+    if not urls:
         raise ValueError("URL extraction failed")
+    timestamp: str = current_datetime_str()
+
+    filename = "blocklist.txt"
+    with open(filename, "w") as f:
+        f.writelines("\n".join(sorted(urls)))
+        logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
+
+    filename = "blocklist_UBL.txt"
+    with open(filename, "w") as f:
+        f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
+        logger.info(
+            "%d Registered Domains written to %s at %s",
+            len(registered_domains),
+            filename,
+            timestamp,
+        )
