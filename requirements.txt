@@ -1,4 +1,4 @@
-bandit==1.7.5
+bandit==1.7.6
 mypy==1.7.1
 mypy-extensions==1.0.0
 pdfminer.six==20221105
