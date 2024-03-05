@@ -338,7 +338,6 @@
 *://*.bitstarz41.com/*
 *://*.bitstarz59.com/*
 *://*.bitzillions.com/*
-*://*.bkfonbet.com/*
 *://*.bkmaxline.ru/*
 *://*.blackchippoker.com/*
 *://*.blackchippoker.eu/*

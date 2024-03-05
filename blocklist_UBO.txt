@@ -338,7 +338,6 @@
 ||bitstarz41.com^$all
 ||bitstarz59.com^$all
 ||bitzillions.com^$all
-||bkfonbet.com^$all
 ||bkmaxline.ru^$all
 ||blackchippoker.com^$all
 ||blackchippoker.eu^$all
