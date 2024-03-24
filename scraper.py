@@ -2,9 +2,9 @@
 https://www.emta.ee/ariklient/registreerimine-ettevotlus/hasartmangukorraldajale/blokeeritud-hasartmangu
 and writes them to a .txt blocklist
 """
+import datetime
 import logging
 import re
-from datetime import datetime
 
 import requests
 import tldextract
@@ -20,7 +20,7 @@ def current_datetime_str() -> str:
     Returns:
         str: Timestamp in strftime format "%d_%b_%Y_%H_%M_%S-UTC"
     """
-    return datetime.utcnow().strftime("%d_%b_%Y_%H_%M_%S-UTC")
+    return datetime.datetime.now(datetime.UTC).strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
 def clean_url(url: str) -> str:
