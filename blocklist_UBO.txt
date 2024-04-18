@@ -164,7 +164,6 @@
 ||allstarsportsbook.com^$all
 ||alwaysvegas.eu^$all
 ||americascardroom.eu^$all
-||amokcasino.com^$all
 ||amsterdamspoker.com^$all
 ||anonibet.com^$all
 ||anonymous-casino.com^$all
@@ -338,6 +337,7 @@
 ||bitstarz41.com^$all
 ||bitstarz59.com^$all
 ||bitzillions.com^$all
+||bkfonbet.com^$all
 ||bkmaxline.ru^$all
 ||blackchippoker.com^$all
 ||blackchippoker.eu^$all
@@ -832,7 +832,6 @@
 ||gamingclub.co.uk^$all
 ||gamingclub.com^$all
 ||gamingclub1.com^$all
-||gemler.com^$all
 ||genesiscasino.com^$all
 ||gentingcasino.com^$all
 ||getslots.com^$all
@@ -858,14 +857,12 @@
 ||goldenpalace.com^$all
 ||goldenreefcasino.com^$all
 ||goldenrivieracasino.com^$all
-||goldenstar-casino.com^$all
 ||goldenstar-casino1.com^$all
 ||goldentiger.casino^$all
 ||goldentigercasino.com^$all
 ||goldentigerpoker.com^$all
 ||goldfishka.com^$all
 ||goldmancasino.com^$all
-||goldroll.com^$all
 ||goldruncasino.com^$all
 ||goldvipclub.com^$all
 ||goldwinportal.com^$all
@@ -1000,7 +997,6 @@
 ||jojobet30.com^$all
 ||jokerino.com^$all
 ||jollyseven.com^$all
-||joocasino.com^$all
 ||joycasino.com^$all
 ||joylandcasino.com^$all
 ||jubise.com^$all
@@ -1213,13 +1209,11 @@
 ||monacoaces.com^$all
 ||moneystorm.com^$all
 ||mongoosecasino.com^$all
-||monsino.com^$all
 ||monte-casino.com^$all
 ||montecryptos.com^$all
 ||moobilegames.com^$all
 ||moongames.com^$all
 ||morespin.com^$all
-||mountgold.com^$all
 ||mr-casino.com^$all
 ||mrgreen.com^$all
 ||mrjackvegas.com^$all
@@ -1292,7 +1286,6 @@
 ||orientxpresscasino.com^$all
 ||oshi.io^$all
 ||outcomebet.com^$all
-||overloadcasino.com^$all
 ||ovocasino.com^$all
 ||oxi.casino^$all
 ||ozlotteries.com^$all
@@ -1435,7 +1428,6 @@
 ||redstarpoker.com^$all
 ||reefclubcasino.com^$all
 ||reelemperor.com^$all
-||refuelcasino.com^$all
 ||regalscasino.com^$all
 ||reloadbet12.com^$all
 ||rembrandtcasino.com^$all
@@ -1694,7 +1686,6 @@
 ||unikrn.com^$all
 ||uniquecasino.com^$all
 ||uniquecasinovip.com^$all
-||unlimitcasino.com^$all
 ||upoker.net^$all
 ||uptownaces.eu^$all
 ||usstarcasino.com^$all
@@ -1816,7 +1807,6 @@
 ||wintingo.com^$all
 ||winwardcasino.ag^$all
 ||winwardcasino.com^$all
-||winzie.com^$all
 ||winzinator.com^$all
 ||wixstars.com^$all
 ||wizbet.com^$all
