@@ -271,6 +271,7 @@
 ||betoto.com^$all
 ||betpassion.com^$all
 ||betplay.com.co^$all
+||betplay.io^$all
 ||betpoint.it^$all
 ||betpokerexchange.com^$all
 ||betpop.eu^$all
@@ -914,6 +915,7 @@
 ||highnooncasino.com^$all
 ||highpulsepoker.com^$all
 ||hilifepoker.com^$all
+||hiperwin.com^$all
 ||hippodromeonline.com^$all
 ||holidaypoker.com^$all
 ||hollywoodpoker.com^$all
@@ -1696,12 +1698,15 @@
 ||vavada-casino.com.br^$all
 ||vavada-casino.com.ua^$all
 ||vavada-et.com^$all
+||vavada-kasiino.com^$all
+||vavada-slots1.com^$all
 ||vavada.com^$all
 ||vavada.lol^$all
 ||vavada.lt^$all
 ||vavadabonuses.com^$all
 ||vavadaen7.com^$all
 ||vavadahappy.com^$all
+||vavadajko.com^$all
 ||vavadared.com^$all
 ||vbet.com^$all
 ||vegas7casino.com^$all
@@ -1771,6 +1776,7 @@
 ||whamoo.com^$all
 ||whitebet.com^$all
 ||whitelionbets.com^$all
+||wild.io^$all
 ||wildjackcasino.com^$all
 ||wildpharao.com^$all
 ||wildtokyo.com^$all
