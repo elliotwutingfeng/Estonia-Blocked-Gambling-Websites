@@ -2,5 +2,5 @@ bandit==1.7.9
 mypy==1.11.2
 mypy-extensions==1.0.0
 pdfminer.six==20231228
-pylint==3.2.6
+pylint==3.2.7
 tldextract==5.1.2
