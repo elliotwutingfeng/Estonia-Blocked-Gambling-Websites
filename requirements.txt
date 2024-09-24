@@ -1,6 +1,6 @@
 bandit==1.7.10
 mypy==1.11.2
 mypy-extensions==1.0.0
-pdfminer.six==20231228
+pdfminer.six==20240706
 pylint==3.3.1
 tldextract==5.1.2
