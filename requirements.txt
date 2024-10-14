@@ -1,5 +1,5 @@
 bandit==1.7.10
-mypy==1.11.2
+mypy==1.12.0
 mypy-extensions==1.0.0
 pdfminer.six==20231228
 pylint==3.3.1
