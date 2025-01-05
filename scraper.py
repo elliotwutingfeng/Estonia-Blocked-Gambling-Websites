@@ -2,6 +2,7 @@
 https://www.emta.ee/ariklient/registreerimine-ettevotlus/hasartmangukorraldajale/blokeeritud-hasartmangu
 and writes them to a .txt blocklist
 """
+
 import datetime
 import logging
 import re
@@ -51,13 +52,15 @@ def extract_urls() -> set[str]:
         set[str]: Unique URLs
     """
     try:
-        endpoint: str = "https://ncfailid.emta.ee/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf"
+        endpoint: str = (
+            "https://ncfailid.emta.ee/s/6BEtzQAgFH4y349/download/Blokeeritud_domeeninimed.pdf"
+        )
         res = requests.get(endpoint, verify=True, timeout=120)
         with open("source.pdf", "wb") as f:
             f.write(res.content)
         text = extract_text("source.pdf")
         entries = [
-            f
+            f.split(" ")[-1]
             for e in text.split("\n")
             if not (f := e.strip()).isnumeric()  # type: ignore
         ]
