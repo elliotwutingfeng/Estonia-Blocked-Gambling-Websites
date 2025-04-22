@@ -3,4 +3,4 @@ mypy==1.15.0
 mypy-extensions==1.0.0
 pdfminer.six==20240706
 pylint==3.3.6
-tldextract==5.2.0
+tldextract==5.3.0
