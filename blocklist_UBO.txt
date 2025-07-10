@@ -41,6 +41,7 @@
 ||1xbet788.com^$all
 ||1xbetua.com^$all
 ||1xbit.com^$all
+||1xbit1.com^$all
 ||1xgwn.host^$all
 ||1xljj.xyz^$all
 ||1xmobcht.xyz^$all
@@ -131,6 +132,7 @@
 ||90bet.gr^$all
 ||Casino.n1bet.com^$all
 ||Sandboxcasino.io^$all
+||a2.winvegasplus-line.com^$all
 ||abcislands.com^$all
 ||absolutepoker.com^$all
 ||aced.com^$all
@@ -269,6 +271,7 @@
 ||betonline.com^$all
 ||betonusa.ag^$all
 ||betoto.com^$all
+||betpanda.io^$all
 ||betpassion.com^$all
 ||betplay.com.co^$all
 ||betplay.io^$all
@@ -290,6 +293,7 @@
 ||betsonic.com^$all
 ||betspace.com^$all
 ||betspin.com^$all
+||betstro.com^$all
 ||betsupremacy.ag^$all
 ||bettheglobe.eu^$all
 ||bettiamoci.it^$all
@@ -504,6 +508,7 @@
 ||casinohuone.com^$all
 ||casinoisy.com^$all
 ||casinojoy.com^$all
+||casinojoy.vip^$all
 ||casinoking.com^$all
 ||casinokingdom.com^$all
 ||casinokingdom.eu^$all
@@ -776,7 +781,6 @@
 ||fairwaycasino.com^$all
 ||fantasino.com^$all
 ||fantasticwin.net^$all
-||fastpay-casino.com^$all
 ||fastplay-casino.com^$all
 ||fatbetpoker.com^$all
 ||fatboss.com^$all
@@ -904,7 +908,6 @@
 ||grosvenorcasinos.com^$all
 ||gtbets.eu^$all
 ||gudarcasino.com^$all
-||gunsbet.com^$all
 ||gunsbet1.com^$all
 ||guruplay.com^$all
 ||guts.com^$all
@@ -1264,6 +1267,8 @@
 ||noxwin.com^$all
 ||noxwin1.com^$all
 ||nutspoker.com^$all
+||nv.casino^$all
+||nv1.casino^$all
 ||nyrabets.com^$all
 ||oceanbets.com^$all
 ||ocncasino.com^$all
@@ -1294,6 +1299,7 @@
 ||opoker.com^$all
 ||oranjecasino.com^$all
 ||orientxpresscasino.com^$all
+||oshcasino.com^$all
 ||oshi.io^$all
 ||outcomebet.com^$all
 ||ovocasino.com^$all
@@ -1463,6 +1469,7 @@
 ||rockbet.com^$all
 ||rockbet.net^$all
 ||rollercasino.com^$all
+||rolletto.win^$all
 ||romecasino.com^$all
 ||romevipcasino.com^$all
 ||roobet.com^$all

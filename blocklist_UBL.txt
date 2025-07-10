@@ -40,6 +40,7 @@
 *://*.1xbet788.com/*
 *://*.1xbetua.com/*
 *://*.1xbit.com/*
+*://*.1xbit1.com/*
 *://*.1xgwn.host/*
 *://*.1xljj.xyz/*
 *://*.1xmobcht.xyz/*
@@ -269,6 +270,7 @@
 *://*.betonline.com/*
 *://*.betonusa.ag/*
 *://*.betoto.com/*
+*://*.betpanda.io/*
 *://*.betpassion.com/*
 *://*.betplay.com.co/*
 *://*.betplay.io/*
@@ -290,6 +292,7 @@
 *://*.betsonic.com/*
 *://*.betspace.com/*
 *://*.betspin.com/*
+*://*.betstro.com/*
 *://*.betsupremacy.ag/*
 *://*.bettheglobe.eu/*
 *://*.bettiamoci.it/*
@@ -490,6 +493,7 @@
 *://*.casinohuone.com/*
 *://*.casinoisy.com/*
 *://*.casinojoy.com/*
+*://*.casinojoy.vip/*
 *://*.casinoking.com/*
 *://*.casinokingdom.com/*
 *://*.casinokingdom.eu/*
@@ -763,7 +767,6 @@
 *://*.fairwaycasino.com/*
 *://*.fantasino.com/*
 *://*.fantasticwin.net/*
-*://*.fastpay-casino.com/*
 *://*.fastplay-casino.com/*
 *://*.fatbetpoker.com/*
 *://*.fatboss.com/*
@@ -897,7 +900,6 @@
 *://*.grosvenorcasinos.com/*
 *://*.gtbets.eu/*
 *://*.gudarcasino.com/*
-*://*.gunsbet.com/*
 *://*.gunsbet1.com/*
 *://*.guruplay.com/*
 *://*.guts.com/*
@@ -1254,6 +1256,8 @@
 *://*.noxwin.com/*
 *://*.noxwin1.com/*
 *://*.nutspoker.com/*
+*://*.nv.casino/*
+*://*.nv1.casino/*
 *://*.nyrabets.com/*
 *://*.oceanbets.com/*
 *://*.ocncasino.com/*
@@ -1282,6 +1286,7 @@
 *://*.opoker.com/*
 *://*.oranjecasino.com/*
 *://*.orientxpresscasino.com/*
+*://*.oshcasino.com/*
 *://*.oshi.io/*
 *://*.outcomebet.com/*
 *://*.ovocasino.com/*
@@ -1448,6 +1453,7 @@
 *://*.rockbet.com/*
 *://*.rockbet.net/*
 *://*.rollercasino.com/*
+*://*.rolletto.win/*
 *://*.romecasino.com/*
 *://*.romevipcasino.com/*
 *://*.roobet.com/*
@@ -1812,6 +1818,7 @@
 *://*.winspark.com/*
 *://*.wintika.com/*
 *://*.wintingo.com/*
+*://*.winvegasplus-line.com/*
 *://*.winwardcasino.ag/*
 *://*.winwardcasino.com/*
 *://*.winzinator.com/*
