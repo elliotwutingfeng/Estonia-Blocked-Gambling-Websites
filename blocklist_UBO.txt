@@ -402,7 +402,6 @@
 ||callofpoker.com^$all
 ||camasino.com^$all
 ||cameocasino.com^$all
-||campeonbet.com^$all
 ||campeonuk.com^$all
 ||campobet.com^$all
 ||campobet7.com^$all
@@ -760,7 +759,6 @@
 ||everestcasino.com^$all
 ||everestpoker.com^$all
 ||everumcasino.com^$all
-||evobet.com^$all
 ||evropakazino.ru^$all
 ||exclusivebet.eu^$all
 ||exclusivecasino.com^$all
@@ -1647,7 +1645,6 @@
 ||suprocasino.com^$all
 ||sveacasino.com^$all
 ||sven-play.com^$all
-||svenbet.com^$all
 ||switch-poker.com^$all
 ||switchpoker.com^$all
 ||syndicate.casino^$all

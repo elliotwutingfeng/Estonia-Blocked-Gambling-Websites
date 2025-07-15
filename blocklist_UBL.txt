@@ -402,7 +402,6 @@
 *://*.callofpoker.com/*
 *://*.camasino.com/*
 *://*.cameocasino.com/*
-*://*.campeonbet.com/*
 *://*.campeonuk.com/*
 *://*.campobet.com/*
 *://*.campobet7.com/*
@@ -746,7 +745,6 @@
 *://*.everestpoker.com/*
 *://*.everumcasino.com/*
 *://*.everygame.eu/*
-*://*.evobet.com/*
 *://*.evropakazino.ru/*
 *://*.exclusivebet.eu/*
 *://*.exclusivecasino.com/*
@@ -1631,7 +1629,6 @@
 *://*.suprocasino.com/*
 *://*.sveacasino.com/*
 *://*.sven-play.com/*
-*://*.svenbet.com/*
 *://*.switch-poker.com/*
 *://*.switchpoker.com/*
 *://*.syndicate.casino/*
