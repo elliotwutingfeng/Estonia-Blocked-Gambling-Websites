@@ -261,6 +261,7 @@
 *://*.betking.com/*
 *://*.betlm.eu/*
 *://*.betman-casino.com/*
+*://*.betmasterbet.ee/*
 *://*.betmatch.io/*
 *://*.betmostpoker.com/*
 *://*.betmotion.com/*
@@ -834,6 +835,7 @@
 *://*.getslots.com/*
 *://*.gg.bet/*
 *://*.gg254.bet/*
+*://*.gg257.bet/*
 *://*.ggpoker.co.uk/*
 *://*.ggpoker.com/*
 *://*.ggpoker.eu/*
@@ -896,6 +898,15 @@
 *://*.greenplay.mx/*
 *://*.grinluck.com/*
 *://*.grosvenorcasinos.com/*
+*://*.growbets.net/*
+*://*.growdice.bet/*
+*://*.growdice.cc/*
+*://*.growdice.co/*
+*://*.growdice.is/*
+*://*.growdice.net/*
+*://*.growdice.org/*
+*://*.growdice.pro/*
+*://*.growdice.win/*
 *://*.gtbets.eu/*
 *://*.gudarcasino.com/*
 *://*.gunsbet1.com/*
@@ -934,6 +945,7 @@
 *://*.ice-casino88.com/*
 *://*.ice-cazino28.com/*
 *://*.ice-cazino91.com/*
+*://*.icebet.casino/*
 *://*.icecasino.com/*
 *://*.icecasino17.com/*
 *://*.icecasino20.com/*
@@ -1286,6 +1298,7 @@
 *://*.orientxpresscasino.com/*
 *://*.oshcasino.com/*
 *://*.oshi.io/*
+*://*.oshlanding.com/*
 *://*.outcomebet.com/*
 *://*.ovocasino.com/*
 *://*.oxi.casino/*
@@ -1396,6 +1409,7 @@
 *://*.powervegas.com/*
 *://*.premiercasino.es/*
 *://*.prestigecasino.com/*
+*://*.pribet.com/*
 *://*.primaplay.eu/*
 *://*.primecasino.com/*
 *://*.primeslots.com/*
@@ -1432,6 +1446,7 @@
 *://*.reloadbet12.com/*
 *://*.rembrandtcasino.com/*
 *://*.respin.bet/*
+*://*.respin.gg/*
 *://*.rialtocasino.com/*
 *://*.rialtovipcasino.com/*
 *://*.ricardoscasino.net/*
@@ -1762,6 +1777,8 @@
 *://*.volcanicgold.com/*
 *://*.vulcan-casino.com/*
 *://*.vulkanbet.com/*
+*://*.vulkanspiele.com/*
+*://*.vulkanspiele1.com/*
 *://*.vulkanvegas.com/*
 *://*.vulkanvegas151.com/*
 *://*.wager.dm/*
@@ -1776,6 +1793,7 @@
 *://*.webbyslot.com/*
 *://*.webbyslot.io/*
 *://*.westcasino.com/*
+*://*.whale.io/*
 *://*.whamoo.com/*
 *://*.whitebet.com/*
 *://*.whitelionbets.com/*
