@@ -2,7 +2,8 @@
 LICENSE
 README.md
 renovate.json
-requirements.txt
 scraper.py
 blocklist_ABP.txt
 blocklist_UBO.txt
+pyproject.toml
+uv.lock

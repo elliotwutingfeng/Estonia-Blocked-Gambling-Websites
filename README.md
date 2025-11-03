@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-[![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
 [![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/Estonia-Blocked-Gambling-Websites?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
 
@@ -26,23 +26,7 @@ The URLs in this blocklist are compiled by the **Estonian Tax and Customs Board*
 
 ## Requirements
 
-- Python 3.12+
-
-## Setup instructions
-
-`git clone` and `cd` into the project directory, then run the following
-
-```bash
-python3 -m venv venv
-venv/bin/python3 -m pip install --upgrade pip
-venv/bin/python3 -m pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-venv/bin/python3 scraper.py
-```
+- Python 3.14+
 
 &nbsp;
 

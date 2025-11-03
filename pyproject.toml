@@ -1,0 +1,8 @@
+[project]
+name = "estonia-blocked-gambling-websites"
+version = "0.0.1"
+requires-python = ">=3.14"
+dependencies = [
+    "pdfminer-six>=20250506",
+    "tldextract>=5.3.0",
+]
